@@ -1,0 +1,34 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+body {font-family: "Alegreya", serif; font-size: 1.1em;}
+figure { margin: 1.618em auto; }
+img { width: 100%; }
+ul li { list-style: none; }
+.site-title { padding-left: 30px; background: url(images/logo.png) 0 15px no-repeat; }
+h2 a:link { color: #900; }
+h2 a:visited { color: #111; }
+p a:link { color: #900; border-bottom: 2px #900 solid; }
+p a:visited { color: #111; text-decoration: underline; border-bottom: none; }
+p a:focus, p a:hover { text-decoration: none; border-bottom: none; }
+/* gesonderte Anweisungen für Artikel über Typografie */
+p a.text{color:#000;border-bottom:none;font-style:italic;}
+p a.navy{color:#009;border-bottom:none;text-decoration:underline;}
+p a.black{color:#000;border-bottom:none;text-decoration:underline;}
+p a.blackbb{color:#000;border-bottom:1px #000 solid;text-decoration:none;}
+p a.blackbb2{color:#000;border-bottom:2px #000 solid;text-decoration:none;}
+p a.simbg{color:#eee;border-bottom:none;text-decoration:underline;}
+p a:focus.simbg,a:hover.simbg {color:#006;}
+/* Ende Anweisungen für Artikel über Typografie*/
+
+.site-footer a:link { color: #900; border-bottom: 2px #900 solid; }
+.site-footer a:hover { text-decoration: none; border-bottom: none; }
+.footer-heading a:link { font-size: 1.1em; border-bottom: none; }
+.footer-heading a:hover { text-decoration: underline; }
+@media screen and (min-width: 63.236em) {
+body { font-size: 1.3em; }
+.footer-heading { font-size: 1.1em; }
+.wrapper { width: 30em; }
+}

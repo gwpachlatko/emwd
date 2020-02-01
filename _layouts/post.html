@@ -1,0 +1,23 @@
+---
+layout: default
+language: de
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h2 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h2>
+    <p class="post-meta">
+      {% include translated_date.html date=page.date format="%A, %-d. %B %Y" lang="de" %}
+    </p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
