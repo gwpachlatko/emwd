@@ -8,7 +8,7 @@ categories: einleitung
 Ursprünglich war _1 Minute Webdesign_ der Titel eines kleinen Leitfadens, den ich während eines Kurses geschrieben hatte. Meine Kurskollegen konnten mit dem Vortrag wenig anfangen, und die Pausen zwischen den Unterrichtseinheiten waren kurz. Also überlegte ich mir einen Weg, das zu vermittelnde Wissen in kleinen, leicht verdaulichen Häppchen nachzureichen.
 <!--more-->
 <figure>
-<p><img src="/assets/images/diskette.png" /></p>
+<p><img src="{{site.baseurl}}/assets/images/diskette.png" /></p>
 <figcaption>
 <p>Abbildung: Eine 3,5–Zoll Diskette — Quelle: Wikimedia, Nevit Dilmen — Public Domain</p>
 </figcaption>
