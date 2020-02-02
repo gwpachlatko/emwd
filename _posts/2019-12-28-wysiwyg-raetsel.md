@@ -8,7 +8,7 @@ tags: [CSS, Editoren, HTML, Textformatierung, WYSIWYG]
 Ich habe schon einige sogenannte <abbr title="What You See Is What You Get">WYSIWYG</abbr>–Editoren gesehen, und je öfter ich einen benutze, umso weniger mag ich sie. Ich frage mich, ob das wirklich nur an mir und meiner Vorliebe für sinnvolles, semantisches <abbr title="HyperText Markup Language">HTML</abbr> liegt.
 <!--more-->
 <figure>
-<p><img src="/assets/images/wysiwyg.png" /></p>
+<p><img src="{{site.baseurl}}/assets/images/wysiwyg.png" /></p>
 <figcaption>
 <p>Abbildung: What You See Is What You Get (But Hardly Evuh What You Want)</p>
 </figcaption>

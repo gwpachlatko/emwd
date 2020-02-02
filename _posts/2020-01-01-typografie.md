@@ -9,7 +9,7 @@ tags: [Serifen, Lesbarkeit, Schriftarten, Satzspiegel ]
 
 <p>Die Typografie ist möglicherweise das letzte &#8222;Gretchenthema&#8220; im Webdesign. Nicht, dass sich darüber viel der Kopf zerbrochen würde. Aber die Wahl der passenden Schriftart und die entsprechende Formatierung des Satzspiegels können schon entscheidend für die allgemeine Qualität der Präsentation &#8212; vor allem die Lesbarkeit, und damit die Verständlichkeit des Inhalts &#8212; sein.</p>
 <!--more-->
-<figure><p><img src="/assets/images/typografie.png" /></p><figcaption><p>Abbildung: Einige typografische Beispiele</p></figcaption></figure>
+<figure><p><img src="{{site.baseurl}}/assets/images/typografie.png" /></p><figcaption><p>Abbildung: Einige typografische Beispiele</p></figcaption></figure>
 
 <p>Ich nehme an, jeder von uns kennt die &#8222;goldene Regel&#8220;, die besagt, dass Fließtext (am Bildschirm) besser in einer serifenlosen Schrift zu setzen ist, während Überschriften auch in Serifenschrift gesetzt werden dürfen. Das Problem mit &#8222;goldenen Regeln&#8220; (im allgemeinen, aber besonders im Webdesign) ist, dass viele einfach nur platt &#8230; Verzeihung, blattvergoldet sind. Bei heute üblichen Auflösungen, selbst bei kleinsten Bildschirmen, sollten &#8222;Unschärfen&#8220; in der Kehlung wirklich kein Auge mehr ermüden lassen.</p>
 
