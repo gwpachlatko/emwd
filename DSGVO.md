@@ -28,7 +28,7 @@ Zumindest theoretisch ließen sich aus diesen Daten — besonders wenn diese in 
 
 Sollten Sie gravierende Bedenken bezüglich der „Herausgabe“ dieser Informationen hegen, empfehle ich die Verwendung des sogenannten [Tor–Browsers](https://www.torproject.org/). Auch Ausgabegeräte wie der [Brave Browser](https://brave.com/) haben diese Technologie und Methodik implementiert.
 
-Dadurch würden die von Ihnen abgesetzten Informationen zwar einigermaßen verschleiert, es würde aber auch das von Ihnen zum Abruf dieser Seiten benötigte Datenvolumen, bei gleichzeitiger Verringerung der Übertragungsgeschwindigkeit, steigern. Ich kann nur hoffen, dass die von mir bereitgestellten Informationen den Mehraufwand rechtfertigen.
+Dadurch würden die von Ihnen abgesetzten Informationen zwar einigermaßen verschleiert, es würde aber auch das von Ihnen zum Abruf dieser Seiten benötigte Datenvolumen, bei gleichzeitiger Verringerung der Übertragungsgeschwindigkeit, deutlich steigen. Ich kann nur hoffen, dass die von mir bereitgestellten Informationen den Mehraufwand rechtfertigen.
 
 ### Wie steht es um meine Verantwortung und Ihr Recht auf Vergessenwerden?
 
