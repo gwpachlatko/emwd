@@ -8,7 +8,7 @@ Wenige Worte zur Erklärung …
 
 ### Über den Autor
 <figure>
-<p><img src="/assets/images/portrait.jpg" /></p>
+<p><img src="{{ site.baseurl }}/assets/images/portrait.jpg" /></p>
 <figcaption><p>Portrait: Gerald W. Pachlatko</p></figcaption>
 </figure>
 
