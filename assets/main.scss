@@ -10,9 +10,9 @@ ul li { list-style: none; }
 .site-title { padding-left: 30px; background: url(images/logo.png) 0 15px no-repeat; }
 h2 a:link { color: #900; }
 h2 a:visited { color: #111; }
-p a:link { color: #900; border-bottom: 2px #900 solid; }
-p a:visited { color: #111; text-decoration: underline; border-bottom: none; }
-p a:focus, p a:hover { text-decoration: none; border-bottom: none; }
+p a:link, .site-footer a:link { color: #900; border-bottom: 2px #900 solid; }
+p a:visited, .site-footer a:visited { color: #111; border-bottom: 2px #111 solid; }
+p a:hover, .site-footer a:hover { text-decoration: none; border-bottom: none; }
 /* gesonderte Anweisungen für Artikel über Typografie */
 p a.text{color:#000;border-bottom:none;font-style:italic;}
 p a.navy{color:#009;border-bottom:none;text-decoration:underline;}
@@ -23,8 +23,6 @@ p a.simbg{color:#eee;border-bottom:none;text-decoration:underline;}
 p a:focus.simbg,a:hover.simbg {color:#006;}
 /* Ende Anweisungen für Artikel über Typografie*/
 
-.site-footer a:link { color: #900; border-bottom: 2px #900 solid; }
-.site-footer a:hover { text-decoration: none; border-bottom: none; }
 .footer-heading a:link { font-size: 1.1em; border-bottom: none; }
 .footer-heading a:hover { text-decoration: underline; }
 @media screen and (min-width: 63.236em) {
