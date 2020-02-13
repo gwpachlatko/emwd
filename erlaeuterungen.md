@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Erläuterungen
+description: Einige Worte zur Erklärung über den Autor und den Inhalt dieser Seiten.
 permalink: /erlaeuterungen/
 ---
 
-Wenige Worte zur Erklärung …
+Einige Worte zur Erklärung …
 
 ### Über den Autor
 <figure>

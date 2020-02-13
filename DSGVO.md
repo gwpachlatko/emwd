@@ -1,6 +1,7 @@
 ---
 layout: page
 title: DSGVO
+description: Einige Worte zur Datenschutzgrundverordnung und wie diese hier gewürdigt wird.
 permalink: /datenschutzgrundverordnung/
 ---
 
