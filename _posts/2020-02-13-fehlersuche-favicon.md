@@ -15,7 +15,7 @@ Aber der Reihe nach: Als „Favicon“ wird landläufig das kleine Bild bezeichn
 <h3>Sich in Binsenweisheiten zu verbeissen bringt nichts</h3>
 Im Prinzip ist es wirklich keine große Angelegenheit. Man speichert das Bild im Wurzelverzeichnis der Website ab, und referenziert die Datei im Kopf der einzelnen Seiten — so zumindest die gut verbreitete Theorie. Eine Standardübung, könnte man meinen.
 
-Nur, von <em>einem</em> Standard scheinen wir auch hier noch weit entfernt zu sein. Im Netz werden gleich mehrere „Standards“ (und — noch viel überraschender — mehr als eine „richtige Umsetzung“, wovon jede die einzige und beste zu sein scheint) gehandelt — wohl je nach dem, wer von wem (und wann) die jeweilige Idee übernommen hat, und wie oft diese verbreitet wurde. Das Ergebnis lässt sich am besten mit zwei Worten zusammenfassen: Geplantes Scheitern.
+Nur, von <em>einem</em> Standard scheinen wir auch hier noch weit entfernt zu sein. Im Netz werden gleich mehrere „Standards“ (und — noch viel überraschender — mehr als eine „richtige Umsetzung“, wovon jede die einzige und beste zu sein scheint) gehandelt — wohl je nachdem, wer von wem (und wann) die jeweilige Idee übernommen hat, und wie oft diese verbreitet wurde. Das Ergebnis lässt sich am besten mit zwei Worten zusammenfassen: Geplantes Scheitern.
 
 Ja, manche Browser halten sich immer noch nicht an vermeintlich allgemeingültige Konventionen. Zur Kenntnis genommen und verkündet.
 
