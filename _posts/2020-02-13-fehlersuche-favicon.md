@@ -12,7 +12,7 @@ Eigentlich ist es ein eher kleines Problem — nicht nur wegen der geringen Grö
 
 Aber der Reihe nach: Als „Favicon“ wird landläufig das kleine Bild bezeichnet das einerseits Browser und andererseits unterschiedliche Ausgabegeräte benutzen, um einzelne Webseiten oder „Apps“ für den Benutzer optisch leichter unterscheid– <abbr title="beziehungsweise">bzw.</abbr> identifizierbar zu machen.
 
-<h3>Sich in Binsenweisheit zu verbeissen bringt nichts</h3>
+<h3>Sich in Binsenweisheiten zu verbeissen bringt nichts</h3>
 Im Prinzip ist es wirklich keine große Angelegenheit. Man speichert das Bild im Wurzelverzeichnis der Website ab, und referenziert die Datei im Kopf der einzelnen Seiten — so zumindest die gut verbreitete Theorie. Eine Standardübung, könnte man meinen.
 
 Nur, von <em>einem</em> Standard scheinen wir auch hier noch weit entfernt zu sein. Im Netz werden gleich mehrere „Standards“ (und — noch viel überraschender — mehr als eine „richtige Umsetzung“, wovon jede die einzige und beste zu sein scheint) gehandelt — wohl je nach dem, wer von wem (und wann) die jeweilige Idee übernommen hat, und wie oft diese verbreitet wurde. Das Ergebnis lässt sich am besten mit zwei Worten zusammenfassen: Geplantes Scheitern.
