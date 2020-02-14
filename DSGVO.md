@@ -3,10 +3,8 @@ layout: page
 title: DSGVO
 description: Einige Worte zur Datenschutzgrundverordnung und wie diese hier gewürdigt wird.
 permalink: /datenschutzgrundverordnung/
+exclude: title
 ---
-
-Einige Worte zur Erklärung …
-
 ### Allgemeine Feststellung bezüglich der Datenschutzgrundverordnung (<abbr>DSGVO</abbr>) und ihrer Bedeutung für diese Seiten beziehungsweise ihren Betreiber
 
 Lassen Sie mich eingangs feststellen, dass ich Datenschutz insgesamt und die (teilweise berechtigten) Befürchtungen Einzelner im Bezug auf Datenproliferation durchaus ernst nehme. Jedoch ist auch in diesem Fall das richtige Augenmaß möglicherweise hilfreicher als das unreflektierte Befolgen gut gemeinter Verordnungen.

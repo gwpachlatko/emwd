@@ -1,0 +1,10 @@
+<div class="prevnext">
+  <p>
+  {% if page.previous.url %}
+    <a title="{{page.previous.title}}" href="{{site.baseurl}}{{page.previous.url}}">&laquo; Vorheriger Artikel</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a title="{{page.next.title}}" href="{{site.baseurl}}{{page.next.url}}">Nächster Artikel &raquo;</a>
+  {% endif %}
+  </p>
+</div>

@@ -5,7 +5,7 @@ description: Einige Worte zur Erklärung über den Autor und den Inhalt dieser S
 permalink: /erlaeuterungen/
 ---
 
-Einige Worte zur Erklärung …
+Einige Worte …
 
 ### Über den Autor
 <figure>
