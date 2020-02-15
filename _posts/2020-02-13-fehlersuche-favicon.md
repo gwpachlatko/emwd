@@ -37,7 +37,7 @@ Also, was bringt uns weiter, wenn das Favicon nur auf der Homepage dargestellt w
 
 <h3>Wo befindet sich das Wurzelverzeichnis?</h3>
 
-Es scheint sich auch nach Jahrzehnten noch nicht landläufig herumgesprochen zu haben: Als Wurzelverzeichnis (<abbr>Engl.</abbr>, root; üblicherweise durch einen einzelnen Schrägstrich dargestellt) wird jene Ebene bezeichnet, in der die Index–Datei (<code>index.html</code>, <code>index.php</code> <abbr title="oder ähnliches">o.ä.</abbr>) der Website am Server abgespeichert ist.
+Es scheint sich auch nach Jahrzehnten noch nicht überall herumgesprochen zu haben: Als Wurzelverzeichnis (<abbr>Engl.</abbr>, root; üblicherweise durch einen einzelnen Schrägstrich dargestellt) wird jene Ebene bezeichnet, in der die Index–Datei (<code>index.html</code>, <code>index.php</code> <abbr title="oder ähnliches">o.ä.</abbr>) der Website am Server abgespeichert ist.
 
 Beispiel: <a title="Verweis auf die Startseite dieser Website" href="https://gwpachlatko.github.io/emwd">https://gwpachlatko.github.io/emwd</a> verweist auf das Wurzelverzeichnis dieser Website und führt direkt zur Index–Datei (sofern diese vorhanden ist).
 
