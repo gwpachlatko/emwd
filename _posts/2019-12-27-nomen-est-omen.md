@@ -17,7 +17,7 @@ Ursprünglich war _1 Minute Webdesign_ der Titel eines kleinen Leitfadens, den i
 
 Das Ergebnis war eine Sammlung von HTML–Seiten, die bequem auf einer 3,5–Zoll Diskette (1,44 MB Speicherkapazität; damals noch das Mittel der Wahl, um Daten extern zu speichern) Platz fand, und praktisch überall und jederzeit verfügbar war.
 
-Doch was als private „Notfallmaßnahme“ für neun junge Webdesigner begonnen hatte, entwickelte sich innerhalb weniger Wochen zu einem ausgewachsenen Projekt. Je mehr Disketten im Umlauf waren, umso häufiger wurde ich gedrängt, ein „richtiges“ Buch aus dem vorhandenen Material zu machen.
+Was als private „Notfallmaßnahme“ für neun junge Webdesigner begonnen hatte, entwickelte sich innerhalb weniger Wochen zu einem ausgewachsenen Projekt. Je mehr Disketten im Umlauf waren, umso häufiger wurde ich gedrängt, ein „richtiges“ Buch aus dem vorhandenen Material zu machen.
 
 Ich ließ mir die Sache also durch den Kopf gehen. Um ehrlich zu sein, ich dachte länger darüber nach, als ich zur Erstellung des Leitfadens gebraucht hatte. Schließlich setzte ich mich noch einmal an den Computer und entwarf eine Version, die ich einem Verlag anbieten konnte, ohne dabei zu erröten.
 
