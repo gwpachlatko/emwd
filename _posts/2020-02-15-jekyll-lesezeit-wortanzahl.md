@@ -20,6 +20,6 @@ Die Anwendung ist sehr einfach: Man zählt die Worte in einem Artikel (einem Pos
 
 Jekyll liefert die Wortzahl pro Seite ab Werk — das ist praktisch — und mit Liquid wird das Ergebnis (recht handlich) eingebunden und ausgegeben.
 
-Der Quellcode ist auf GitHub gelagert. Zur Benutzung gibt es nicht viel anzumerken:
+Der <a title="zum Repository auf GitHub" href="https://github.com/gwpachlatko/jekyll-lesezeit">Quellcode ist auf GitHub</a> gelagert. Zur Benutzung gibt es nicht viel anzumerken:
 
 Die Datei <code>lesezeit.html</code> wird im Verzeichnis <code>&#47;&#95;includes&#47;</code> abgespeichert und an gewünschter Stelle in einem Dokument eingebunden: <code>&#123;&#37;&#45; include lesezeit.html &#45;&#37;&#125;</code>
