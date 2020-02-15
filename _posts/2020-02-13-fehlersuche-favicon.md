@@ -6,7 +6,7 @@ description: "Das Favicon erscheint nur auf der Homepage, nicht aber auf den Unt
 categories: fehlersuche
 tags: [Favicon]
 ---
-„Dringend gesucht: Favicon. Abgängig seit: Jahren. Zuletzt gesehen: auf der Homepage. Besondere Merkmale: klein und schwer zu fassen.“ So (oder so ähnlich) könnte man die Lage, wie sie sich seit Browsergenerationen — und durchaus systemübergreifend — in diversen Hilfeforen darstellt, in einem Suchaufruf zusammenfassen.<!--more-->
+„Dringend gesucht: Favicon. Abgängig seit: Jahren. Zuletzt gesehen: auf der Homepage. Besondere Merkmale: klein und schwer zu fassen.“ So (oder so ähnlich) könnte man die Lage, wie sie sich seit einer gefühlten Ewigkeit — und durchaus systemübergreifend — in diversen Hilfeforen darstellt, in einem Suchaufruf zusammenfassen.<!--more-->
 
 Eigentlich ist es ein eher kleines Problem — nicht nur wegen der geringen Größe des Icons. Das große Problem scheint in diesem Fall zu sein, dass sich die Suchenden zuweilen selbst (und gegenseitig) im Weg stehen.
 
