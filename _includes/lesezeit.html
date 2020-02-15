@@ -1,0 +1,12 @@
+{{ page.content | number_of_words | prepend: " " | append: " Worte" }} — 
+
+{% assign words = page.content | number_of_words %}
+{% if words <= 180 %} 
+	{{  "Lesezeit: unter 1 Minute" }}
+{% endif %}
+{% if words >180 and words <360 %} 
+	{{ "Lesezeit: <abbr>ca.</abbr> 1 Minute" }}
+{% endif %}
+{% if words >=360 %}
+	{{ words | divided_by: 180 | prepend: "Lesezeit: <abbr>ca.</abbr> " | append: " Minuten" }}
+{% endif %}
