@@ -2,6 +2,7 @@
 layout: post
 title:  Ein „Schummelzettel“, den man nicht zu verstecken braucht
 date:   2019-12-31 17:32:35 +0100
+description: "Eine Anleitung zur Erstellung einer Landing Page mit kopierfertigem Code."
 categories: werkzeuge
 tags: [HTML, CSS, JavaScript, GitHub]
 ---

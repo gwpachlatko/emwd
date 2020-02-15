@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Nomen est omen oder Wie dieser Blog zu seinem Namen kam
+description: "Ursprünglich der Titel eines kleinen Leitfadens, soll die Grundidee mit neuen Inhalten als Website wiederbelebt werden."
 date:   2019-12-27 17:31:35 +0100
 categories: einleitung
 ---

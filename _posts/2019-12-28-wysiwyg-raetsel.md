@@ -2,6 +2,7 @@
 layout: post
 title:  Das WYSIWYG–Editor Rätsel
 date:   2019-12-28 17:32:35 +0100
+description: "Wenn sich WYSIWYG-Editoren nicht an gängige Konventionen halten, nützt einfache Anwendung auch wenig."
 categories: werkzeuge
 tags: [CSS, Editoren, HTML, Textformatierung, WYSIWYG]
 ---

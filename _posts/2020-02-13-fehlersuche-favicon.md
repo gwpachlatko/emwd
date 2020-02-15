@@ -2,8 +2,8 @@
 layout: post
 title:  "Dringend gesucht: Favicon"
 date:   2020-02-13 16:32:35 +0100
-categories: fehlersuche
 description: "Das Favicon erscheint nur auf der Homepage, nicht aber auf den Unterseiten? Dann sagen Sie dem Browser, wo’s lang geht."
+categories: fehlersuche
 tags: [Favicon]
 ---
 „Dringend gesucht: Favicon. Abgängig seit: Jahren. Zuletzt gesehen: auf der Homepage. Besondere Merkmale: klein und schwer zu fassen.“ So (oder so ähnlich) könnte man die Lage, wie sie sich seit Jahren — und durchaus systemübergreifend — in diversen Hilfeforen darstellt, in einem Suchaufruf zusammenfassen.<!--more-->
@@ -71,12 +71,12 @@ Ja, die wären da noch. Es ist mir auch schon aufgefallen, dass einzelne Content
 
 Die einzige generische (allgemeingültige, universelle) Lösung die mir dazu aus dem Stegreif einfiele, wäre alle Links absolut anzugeben — unabhängig davon, welcher Konvention die Entwickler des jeweiligen <abbr>CMS</abbr> eigentlich folgen. Das könnte sich zuweilen mühsam gestalten, sollte aber zu keinen „technischen Verwicklungen“ führen. Das würde dann hier im Falle des Favicons so aussehen:
 
-<code>&lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;16x16&#34; href=&#34;https://gwpachlatko.github.io/emwd/assets/images/favicon-16x16.png&#34; &#47;&gt;</code>
+<code>&lt;link rel=&#34;icon&#34; type=&#34;image&#47;png&#34; sizes=&#34;16x16&#34; href=&#34;https://gwpachlatko.github.io/emwd/assets/images/favicon-16x16.png&#34; &#47;&gt;</code>
 
 Ansonsten bleibt nur, sich dem jeweiligen System und seinen Konventionen anzupassen.
 
-Beispiel: Um das Favicon hier in Jekyll verlässlich einzubinden und auf allen Seiten angezeigt zu bekommen, habe ich alle Bilddateien in <code>/assets/images/</code> gesammelt, und verweise darauf mittels „Liquids“ nach der ansonsten in diesem <abbr>CMS</abbr> üblichen Konvention. Also etwa:
+Beispiel: Um das Favicon hier in Jekyll verlässlich einzubinden und auf allen Seiten angezeigt zu bekommen, habe ich alle Bilddateien in <code>&#47;assets&#47;images&#47;</code> gesammelt, und verweise darauf mittels „Liquids“ nach der ansonsten in diesem <abbr>CMS</abbr> üblichen Konvention. Also etwa:
 
-<code>&lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;16x16&#34; href=&#34;&#123;&#123; site.baseurl &#125;&#125;/assets/images/favicon-16x16.png&#34; &#47;&gt;</code>
+<code>&lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;16x16&#34; href=&#34;&#123;&#123; site.baseurl &#125;&#125;&#47;assets&#47;images&#47;favicon-16x16.png&#34; &#47;&gt;</code>
 
 Damit wirft der Server keine Fehler aus, die Seiten validieren nach <abbr title="World Wide Web Consortium; die Organisation, die Empfehlungen für Webstandards ausspricht">W3C</abbr> und das Favicon wird auf allen Seiten und in allen (getesteten) Browsern angezeigt. Fall erledigt.
