@@ -20,6 +20,8 @@ Die Anwendung ist sehr einfach: Man zählt die Worte in einem Artikel (einem Pos
 
 Jekyll liefert die Wortzahl pro Seite ab Werk — das ist praktisch — und mit Liquid wird das Ergebnis (recht handlich) eingebunden und ausgegeben.
 
-Weil’s so flüssig lief, habe ich die Datei auf insgesamt fünf Sprachen erweitert.
+Weil’s so flüssig lief, habe ich das Skript auf insgesamt sechs Sprachen erweitert.
 
-<a title="zum Repository auf GitHub" href="https://github.com/gwpachlatko/jekyll-lesezeit">Quellcode und Erläuterungen</a> auf GitHub.
+<em>Jekyll Lesezeit</em> besteht aus zwei Dateien: eine arbeitet mit „if … else“ (<code>lesezeit-if.html</code>), die andere mit „switch … case“ (<code>lesezeit-case.html</code>). Verwenden Sie die Variante, die Sie bevorzugen; beide liefern das gleiche Ergebnis.
+
+<a title="zum Repository auf GitHub" href="https://github.com/gwpachlatko/jekyll-lesezeit">Quellcodes und Erläuterungen</a> auf GitHub.
