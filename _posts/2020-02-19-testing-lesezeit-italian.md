@@ -37,7 +37,7 @@ Desideri che le singole pagine visualizzino <em>Lesezeit</em> in (una lingua div
 
 Imposta la lingua del sito in <code>config.yml</code>. Su questo sito: <code>lang: de</code>
 
-Imposta la lingua della pagina in frontmatter of individual pages. On this page:
+Imposta la lingua della pagina in &#171;frontmatter&187; delle singole pagine. In questa pagina:
 
 <pre>
 ---
