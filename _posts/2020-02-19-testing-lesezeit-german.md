@@ -7,7 +7,7 @@ categories: fehlersuche
 description: "Diese Seite ist nur zum Testen von Software auf Deutsch gedacht."
 tags: [JekyllLesezeit]
 ---
-Öffnen Sie diesen Eintrag wenn Sie die Live–Demo auf Deutsch interessiert und wenn Sie wissen wollen wie das Skript angewendet wird.
+Öffnen Sie diesen Eintrag wenn Sie die Live–Demo auf Deutsch interessiert und wissen wollen wie das Skript angewendet wird.
 <!--more-->
 
 ### Anwendungsfall #1
