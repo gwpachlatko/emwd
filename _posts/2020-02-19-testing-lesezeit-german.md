@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Jekyll Lesezeit auf Deutsch testen
+title:  „Jekyll Lesezeit“ auf Deutsch testen
 date:   2020-02-19 09:32:35 +0100
 lang: de
 categories: fehlersuche
@@ -42,7 +42,7 @@ Setzen Sie eine Seitensprache im „Frontmatter“ der jeweiligen Seite. Auf die
 <pre>
 ---
 layout: post
-title: Jekyll Lesezeit auf Deutsch testen
+title: „Jekyll Lesezeit“ auf Deutsch testen
 date: 2020-02-19 09:32:35 +0100
 lang: de
 categories: fehlersuche
@@ -51,4 +51,4 @@ tags: [JekyllLesezeit]
 ---
 </pre>
 
-Ergebnis: Die Sprache der Website bleibt “Deutsch” (<code>&#60;html lang=&#34;de&#34;&#62;</code>). Die Sprache unterschiedlicher Seiten auf dieser Website ist nicht Deutsch (also etwa <code>&#60;html lang=&#34;en&#34;&#62;</code> oder <code>&#60;html lang=&#34;it&#34;&#62;</code>). <em>Lesezeit</em> zeigt Wortanzahl und Lesezeit in der jeweiligen Seitensprache an.
+Ergebnis: Die Sprache der Website bleibt „Deutsch“ (<code>&#60;html lang=&#34;de&#34;&#62;</code>). Die Sprache unterschiedlicher Seiten auf dieser Website ist nicht Deutsch (also etwa <code>&#60;html lang=&#34;en&#34;&#62;</code> oder <code>&#60;html lang=&#34;it&#34;&#62;</code>). <em>Lesezeit</em> zeigt Wortanzahl und Lesezeit in der jeweiligen Seitensprache an.

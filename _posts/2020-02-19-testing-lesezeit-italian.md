@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Test di Jekyll Lesezeit in Italiano
+title:  Test di «Jekyll Lesezeit» in Italiano
 date:   2020-02-19 09:32:35 +0100
 lang: it
 categories: fehlersuche
@@ -16,7 +16,7 @@ Desideri che <em>Lesezeit</em> visualizzi le informazioni <em>nella lingua del t
 
 Imposta la lingua del sito in <code>config.yml</code>. Su questo sito: <code>lang: de</code>
 
-Non impostare la lingua in &#171;frontmatter&#187; delle singole pagine.
+Non impostare la lingua in «frontmatter» delle singole pagine.
 
 <pre>
 ---
@@ -37,12 +37,12 @@ Desideri che le singole pagine visualizzino <em>Lesezeit</em> in (una lingua div
 
 Imposta la lingua del sito in <code>config.yml</code>. Su questo sito: <code>lang: de</code>
 
-Imposta la lingua della pagina in &#171;frontmatter&#187; delle singole pagine. In questa pagina:
+Imposta la lingua della pagina in «frontmatter» delle singole pagine. In questa pagina:
 
 <pre>
 ---
 layout: post
-title: Test di Jekyll Lesezeit in Italiano
+title: Test di «Jekyll Lesezeit» in Italiano
 date: 2020-02-19 09:32:35 +0100
 lang: it
 categories: fehlersuche
@@ -51,4 +51,4 @@ tags: [JekyllLesezeit]
 ---
 </pre>
 
-Risultato: La lingua del sito rimane &#171;Tedesco&#187; (<code>&#60;html lang=&#34;de&#34;&#62;</code>). La lingua della pagina è &#171;Italiano&#187; (o almeno spero) (<code>&#60;html lang=&#34;it&#34;&#62;</code>). <em>Lesezeit</em> visualizza il conteggio delle parole e il tempo di lettura su questa pagina in italiano.
+Risultato: La lingua del sito rimane «Tedesco» (<code>&#60;html lang=&#34;de&#34;&#62;</code>). La lingua della pagina è «Italiano» (o almeno spero) (<code>&#60;html lang=&#34;it&#34;&#62;</code>). <em>Lesezeit</em> visualizza il conteggio delle parole e il tempo di lettura su questa pagina in italiano.

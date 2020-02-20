@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Prueba de Jekyll Lesezeit en Español
+title:  Prueba de «Jekyll Lesezeit» en Español
 date:   2020-02-19 09:32:35 +0100
 lang: es
 categories: fehlersuche
@@ -16,7 +16,7 @@ Desea que <em>Lesezeit</em> muestre información <em>en el idioma de su sitio</e
 
 Establecer idioma del sitio en <code>config.yml</code>. En este sitio: <code>lang: de</code>
 
-No establecer el idioma en "frontmatter" de páginas individuales.
+No establecer el idioma en «frontmatter» de páginas individuales.
 
 <pre>
 ---
@@ -37,12 +37,12 @@ Desea que las páginas individuales muestren <em>Lesezeit</em> en (un) idioma(s)
 
 Establecer idioma del sitio en <code>config.yml</code>. En este sitio: <code>lang: de</code>
 
-Establecer el idioma de la página en &#171;frontmatter&#187; de las páginas individuales. En esta página:
+Establecer el idioma de la página en «frontmatter» de las páginas individuales. En esta página:
 
 <pre>
 ---
 layout: post
-title: Prueba de Jekyll Lesezeit en Español
+title: Prueba de «Jekyll Lesezeit» en Español
 date: 2020-02-19 09:32:35 +0100
 lang: es
 categories: fehlersuche
@@ -51,4 +51,4 @@ tags: [JekyllLesezeit]
 ---
 </pre>
 
-Resultado: El idioma del sitio sigue siendo &#171;Alemán&#187;. El idioma de la página es &#171;Español&#187; (o eso espero). <em>Lesezeit</em> muestra el recuento de palabras y el tiempo de lectura en esta página en Español.
+Resultado: El idioma del sitio sigue siendo «Alemán». El idioma de la página es «Español» (o eso espero). <em>Lesezeit</em> muestra el recuento de palabras y el tiempo de lectura en esta página en Español.

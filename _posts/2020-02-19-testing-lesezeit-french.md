@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Test de Jekyll Lesezeit en Français
+title:  Test de «Jekyll Lesezeit» en Français
 date:   2020-02-19 09:32:35 +0100
 lang: fr
 categories: fehlersuche
@@ -16,7 +16,7 @@ Vous souhaitez que Lesezeit affiche des informations <em>dans la langue de votre
 
 Définir la langue globale dans <code>config.yml</code>. Sur ce site: <code>lang: de</code>
 
-Ne pas définir la langue de la page dans &#171;frontmatter&#187; des pages individuelles.
+Ne pas définir la langue de la page dans «frontmatter» des pages individuelles.
 
 <pre>
 ---
@@ -37,12 +37,12 @@ Vous souhaitez que des pages individuelles affichent <em>Lesezeit</em> dans une 
 
 Définir la langue globale dans <code>config.yml</code>. Sur ce site: <code>lang: de</code>
 
-Définir la langue de la page dans &#171;frontmatter&#187; des pages individuelles. Sur cette page:
+Définir la langue de la page dans «frontmatter» des pages individuelles. Sur cette page:
 
 <pre>
 ---
 layout: post
-title: Test de Jekyll Lesezeit en Français
+title: Test de «Jekyll Lesezeit» en Français
 date: 2020-02-19 09:32:35 +0100
 lang: fr
 categories: fehlersuche
@@ -51,4 +51,4 @@ tags: [JekyllLesezeit]
 ---
 </pre>
 
-Résultat: La langue du site reste &#171;Allemand&#187; (<code>&#60;html lang=&#34;de&#34;&#62;</code>). La langue de la page est &#171;Français&#187; (ou alors j'espère) (<code>&#60;html lang=&#34;fr&#34;&#62;</code>). <em>Lesezeit</em> affiche le nombre de mots et le temps de lecture sur cette page en français.
+Résultat: La langue du site reste «Allemand» (<code>&#60;html lang=&#34;de&#34;&#62;</code>). La langue de la page est «Français» (ou alors j'espère) (<code>&#60;html lang=&#34;fr&#34;&#62;</code>). <em>Lesezeit</em> affiche le nombre de mots et le temps de lecture sur cette page en français.

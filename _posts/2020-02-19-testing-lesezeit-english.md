@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Testing Jekyll Lesezeit in English
+title:  Testing “Jekyll Lesezeit” in English
 date:   2020-02-19 09:32:35 +0100
 lang: en
 categories: fehlersuche
@@ -42,7 +42,7 @@ Set page language in “frontmatter” of individual pages. On this page:
 <pre>
 ---
 layout: post
-title: Testing Jekyll Lesezeit in English
+title: Testing “Jekyll Lesezeit” in English
 date: 2020-02-19 09:32:35 +0100
 lang: en
 categories: fehlersuche
