@@ -1,21 +1,21 @@
 {% assign s_lang = site.lang %}
-{% assign p_lang = page.lang %}
+{% assign p_lang = post.lang %}
 {% assign words = page.content | number_of_words %}
 
 {% comment %}INDIVIDUAL LANG SET PER PAGE{% endcomment %}
 {% if p_lang != s_lang %}
 
 {% case p_lang %}
-  {% comment %}WORD COUNT AND READING TIME PER PAGE{% endcomment %}
-  {% when 'en' %}
-    {{ page.content | number_of_words | prepend: " " | append: " words" }} —
-	    {% if words <= 180 %}
-		    less than 1 minute
-  		  {% elsif words > 180 and words < 360 %}
-		    <abbr>appr.</abbr> 1 minute
-  		  {% elsif words >= 360 %}
-		    {{ words | divided_by: 180 | prepend: "<abbr>appr.</abbr> " | append: " minutes" }}
-	    {% endif %}
+  {% comment %}WORTANZAHL UND LESEZEIT{% endcomment %}
+  {% when 'de' %}
+    {{ page.content | number_of_words | prepend: " " | append: " Worte" }} —
+    {% if words <= 180 %}
+      unter 1 Minute
+      {% elsif words > 180 and words < 360 %}
+      <abbr>ca.</abbr> 1 Minute
+      {% elsif words >= 360 %}
+      {{ words | divided_by: 180 | prepend: "<abbr>ca.</abbr> " | append: " Minuten" }}
+    {% endif %}
 
   {% comment %}COMPTE DES MOTS ET HEURE DE LECTURE{% endcomment %}
   {% when 'fr' %}
@@ -61,16 +61,16 @@
         {{ words | divided_by: 180 | prepend: "cerca de " | append: " minutos" }}
       {% endif %}
 
-  {% comment %}WORTANZAHL UND LESEZEIT SEITENWEISE{% endcomment %}
+  {% comment %}WORD COUNT AND READING TIME: PAGE DEFAULT{% endcomment %}
   {% else %}
-    {{ page.content | number_of_words | prepend: " " | append: " Worte" }} —
-	    {% if words <= 180 %}
-  		  unter 1 Minute
-    		{% elsif words > 180 and words < 360 %}
-		    <abbr>ca.</abbr> 1 Minute
-  	  	{% elsif words >= 360 %}
-		    {{ words | divided_by: 180 | prepend: "<abbr>ca.</abbr> " | append: " Minuten" }}
-	    {% endif %}
+  {{ page.content | number_of_words | prepend: " " | append: " words" }} —
+    {% if words <= 180 %}
+      less than 1 minute
+      {% elsif words > 180 and words < 360 %}
+      <abbr>appr.</abbr> 1 minute
+      {% elsif words >= 360 %}
+      {{ words | divided_by: 180 | prepend: "<abbr>appr.</abbr> " | append: " minutes" }}
+    {% endif %}
 
 {% endcase%}
 
@@ -78,16 +78,16 @@
 {% else %}
 
 {% case s_lang %}
-  {% comment %}WORD COUNT AND READING TIME{% endcomment %}
-  {% when 'en' %}
-    {{ page.content | number_of_words | prepend: " " | append: " words" }} —
-	    {% if words <= 180 %}
-		    less than 1 minute
-  		  {% elsif words > 180 and words < 360 %}
-		    <abbr>appr.</abbr> 1 minute
-  		  {% elsif words >= 360 %}
-		    {{ words | divided_by: 180 | prepend: "<abbr>appr.</abbr> " | append: " minutes" }}
-	    {% endif %}
+  {% comment %}WORTANZAHL UND LESEZEIT{% endcomment %}
+  {% when 'de' %}
+  {{ page.content | number_of_words | prepend: " " | append: " Worte" }} —
+    {% if words <= 180 %}
+      unter 1 Minute
+      {% elsif words > 180 and words < 360 %}
+      <abbr>ca.</abbr> 1 Minute
+      {% elsif words >= 360 %}
+      {{ words | divided_by: 180 | prepend: "<abbr>ca.</abbr> " | append: " Minuten" }}
+    {% endif %}
 
   {% comment %}COMPTE DES MOTS ET HEURE DE LECTURE{% endcomment %}
   {% when 'fr' %}
@@ -133,16 +133,16 @@
         {{ words | divided_by: 180 | prepend: "cerca de " | append: " minutos" }}
       {% endif %}
 
-  {% comment %}WORTANZAHL UND LESEZEIT{% endcomment %}
+  {% comment %}WORD COUNT AND READING TIME: GLOBAL DEFAULT{% endcomment %}
   {% else %}
-    {{ page.content | number_of_words | prepend: " " | append: " Worte" }} —
-	    {% if words <= 180 %}
-  		  unter 1 Minute
-    		{% elsif words > 180 and words < 360 %}
-		    <abbr>ca.</abbr> 1 Minute
-  	  	{% elsif words >= 360 %}
-		    {{ words | divided_by: 180 | prepend: "<abbr>ca.</abbr> " | append: " Minuten" }}
-	    {% endif %}
+  {{ page.content | number_of_words | prepend: " " | append: " words" }} —
+    {% if words <= 180 %}
+      less than 1 minute
+      {% elsif words > 180 and words < 360 %}
+      <abbr>appr.</abbr> 1 minute
+      {% elsif words >= 360 %}
+      {{ words | divided_by: 180 | prepend: "<abbr>appr.</abbr> " | append: " minutes" }}
+    {% endif %}
 
 {% endcase%}
 

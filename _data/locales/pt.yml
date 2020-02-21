@@ -1,0 +1,44 @@
+# Strings for dates
+# language Portuguese
+abbreviated_weekday:
+  - segunda
+  - terça
+  - quarta
+  - quinta
+  - sexta
+  - <abbr>Sab.</abbr>
+  - <abbr>Dom.</abbr>
+full_weekday:
+  - domingo
+  - segunda
+  - terça–feira
+  - quarta–feira
+  - quinta–feira
+  - sexta–feira
+  - sábado
+abbreviated_month:
+  - de <abbr>jan.</abbr> de
+  - de <abbr>fev.</abbr> de
+  - de março de
+  - de abril de
+  - de maio de
+  - de junho de
+  - de julho de
+  - de agosto de
+  - de <abbr>set.</abbr> de
+  - de <abbr>out.</abbr> de
+  - de <abbr>nov.</abbr> de
+  - de <abbr>dez.</abbr> de
+full_month:
+  - de janeiro de
+  - de fevereiro de
+  - de março de
+  - de abril de
+  - de maio de
+  - de junho de
+  - de julho de
+  - de agosto de
+  - de setembro de
+  - de outubro de
+  - de novembro de
+  - de dezembro de

@@ -5,7 +5,7 @@ date:   2020-02-19 09:32:35 +0100
 lang: pt
 categories: fehlersuche
 description: "Esta página é apenas para teste de software em português."
-tags: [JekyllLesezeit]
+tags: [Jekyll, Lesezeit, Português]
 ---
 Abra este artigo para ver a demonstração ao vivo em Português e como implantar o script.
 <!--more-->
@@ -47,7 +47,7 @@ date: 2020-02-19 09:32:35 +0100
 lang: pt
 categories: fehlersuche
 description: "Esta página é apenas para teste de software em português."
-tags: [JekyllLesezeit]
+tags: [Jekyll, Lesezeit, Português]
 ---
 </pre>
 

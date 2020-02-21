@@ -2,8 +2,9 @@
 layout: post
 title:  Das WYSIWYG–Editor Rätsel
 date:   2019-12-28 17:32:35 +0100
-description: "Wenn sich WYSIWYG-Editoren nicht an gängige Konventionen halten, nützt einfache Anwendung auch wenig."
+lang: de
 categories: werkzeuge
+description: "Wenn sich WYSIWYG-Editoren nicht an gängige Konventionen halten, nützt einfache Anwendung auch wenig."
 tags: [CSS, Editoren, HTML, Textformatierung, WYSIWYG]
 ---
 Ich habe schon einige sogenannte <abbr title="What You See Is What You Get">WYSIWYG</abbr>–Editoren gesehen, und je öfter ich einen benutze, umso weniger mag ich sie. Ich frage mich, ob das wirklich nur an mir und meiner Vorliebe für sinnvolles, semantisches <abbr title="HyperText Markup Language">HTML</abbr> liegt.

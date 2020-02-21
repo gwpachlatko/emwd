@@ -2,8 +2,9 @@
 layout: post
 title:  Die wahren Barrieren sind im Kopf
 date:   2020-01-04 17:32:35 +0100
-description: "Das Internet kennt keine Einschränkungen die wir landläufig als Barrieren bezeichnen. Diese würden schließlich der Absicht, Informationen allgemein zugänglich zu machen, grundsätzlich widersprechen."
+lang: de
 categories: accessibility
+description: "Das Internet kennt keine Einschränkungen die wir landläufig als Barrieren bezeichnen. Diese würden schließlich der Absicht, Informationen allgemein zugänglich zu machen, grundsätzlich widersprechen."
 tags: [Zugänglichkeit, Accessibility]
 ---
 

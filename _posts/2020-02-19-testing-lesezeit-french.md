@@ -5,7 +5,7 @@ date:   2020-02-19 09:32:35 +0100
 lang: fr
 categories: fehlersuche
 description: "Cette page est destinée aux tests de logiciels en français uniquement."
-tags: [JekyllLesezeit]
+tags: [Jekyll, Lesezeit, Français]
 ---
 Ouvrez cet article pour voir la démo en direct en Français et comment déployer le script.
 <!--more-->
@@ -47,7 +47,7 @@ date: 2020-02-19 09:32:35 +0100
 lang: fr
 categories: fehlersuche
 description: "Cette page est destinée aux tests de logiciels en français uniquement."
-tags: [JekyllLesezeit]
+tags: [Jekyll, Lesezeit, Français]
 ---
 </pre>
 

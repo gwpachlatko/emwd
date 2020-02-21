@@ -2,8 +2,9 @@
 layout: post
 title:  "Dringend gesucht: Favicon"
 date:   2020-02-13 16:32:35 +0100
-description: "Das Favicon erscheint nur auf der Homepage, nicht aber auf den Unterseiten? Dann sagen Sie dem Browser, wo’s lang geht."
+lang: de
 categories: fehlersuche
+description: "Das Favicon erscheint nur auf der Homepage, nicht aber auf den Unterseiten? Dann sagen Sie dem Browser, wo’s lang geht."
 tags: [Favicon]
 ---
 „Dringend gesucht: Favicon. Abgängig seit: Jahren. Zuletzt gesehen: auf der Homepage. Besondere Merkmale: klein und schwer zu fassen.“ So (oder so ähnlich) könnte man die Lage, wie sie sich seit einer gefühlten Ewigkeit — und durchaus systemübergreifend — in diversen Hilfeforen darstellt, in einem Suchaufruf zusammenfassen.<!--more-->

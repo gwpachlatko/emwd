@@ -5,7 +5,7 @@ date:   2020-02-19 09:32:35 +0100
 lang: it
 categories: fehlersuche
 description: "Questa pagina è solo per test del software in italiano."
-tags: [JekyllLesezeit]
+tags: [Jekyll, Lesezeit, Italiano]
 ---
 Apri questo articolo per vedere la demo live in Italiano e come distribuire lo script.
 <!--more-->
@@ -47,7 +47,7 @@ date: 2020-02-19 09:32:35 +0100
 lang: it
 categories: fehlersuche
 description: "Questa pagina è solo per test del software in italiano."
-tags: [JekyllLesezeit]
+tags: [Jekyll, Lesezeit, Italiano]
 ---
 </pre>
 

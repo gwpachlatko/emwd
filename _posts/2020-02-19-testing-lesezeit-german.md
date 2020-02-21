@@ -5,7 +5,7 @@ date:   2020-02-19 09:32:35 +0100
 lang: de
 categories: fehlersuche
 description: "Diese Seite ist nur zum Testen von Software auf Deutsch gedacht."
-tags: [JekyllLesezeit]
+tags: [Jekyll, Lesezeit, Deutsch]
 ---
 Öffnen Sie diesen Eintrag wenn Sie die Live–Demo auf Deutsch interessiert und wissen wollen wie das Skript angewendet wird.
 <!--more-->
@@ -47,7 +47,7 @@ date: 2020-02-19 09:32:35 +0100
 lang: de
 categories: fehlersuche
 description: "Diese Seite ist nur zum Testen von Software auf Deutsch gedacht."
-tags: [JekyllLesezeit]
+tags: [Jekyll, Lesezeit, Deutsch]
 ---
 </pre>
 

@@ -1,13 +1,13 @@
 # Strings for dates
 # language German
 abbreviated_weekday:
-  - So
-  - Mo
-  - Di
-  - Mi
-  - Do
-  - Fr
-  - Sa
+  - <abbr>So.</abbr>
+  - <abbr>Mo.</abbr>
+  - <abbr>Di.</abbr>
+  - <abbr>Mi.</abbr>
+  - <abbr>Do.</abbr>
+  - <abbr>Fr.</abbr>
+  - <abbr>Sa.</abbr>
 full_weekday:
   - Sonntag
   - Montag
@@ -17,18 +17,18 @@ full_weekday:
   - Freitag
   - Samstag
 abbreviated_month:
-  - Jan
-  - Feb
-  - Mär
-  - Apr
+  - <abbr>Jan.</abbr>
+  - <abbr>Feb.</abbr>
+  - <abbr>Mär.</abbr>
+  - <abbr>Apr.</abbr>
   - Mai
-  - Jun
-  - Jul
-  - Aug
-  - Sep
-  - Okt
-  - Nov
-  - Dez
+  - <abbr>Jun.</abbr>
+  - <abbr>Jul.</abbr>
+  - <abbr>Aug.</abbr>
+  - <abbr>Sep.</abbr>
+  - <abbr>Okt.</abbr>
+  - <abbr>Nov.</abbr>
+  - <abbr>Dez.</abbr>
 full_month:
   - Januar
   - Februar

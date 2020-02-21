@@ -2,8 +2,9 @@
 layout: post
 title:  Ein „Schummelzettel“, den man nicht zu verstecken braucht
 date:   2019-12-31 17:32:35 +0100
-description: "Eine Anleitung zur Erstellung einer Landing Page mit kopierfertigem Code."
+lang: de
 categories: werkzeuge
+description: "Eine Anleitung zur Erstellung einer Landing Page mit kopierfertigem Code."
 tags: [HTML, CSS, JavaScript, GitHub]
 ---
 Ich habe in [Das WYSIWYG–Editor Rätsel]({{ site.baseurl }}{% post_url 2019-12-28-wysiwyg-raetsel %}) behauptet, jeder halbwegs begabte Blogger hätte &#8222;die wenigen zum Verfassen sinnvoller, gut lesbarer Texte wirklich notwendigen <abbr title="HyperText Markup Language">HTML</abbr>&#8211;Tags nach ein, zwei selbst geschriebenen Artikeln ganz nebenbei gelernt&#8220;. Das war frech, ich gebe es zu. Aber ernsthaft, so viele sind es wirklich nicht.

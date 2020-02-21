@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  Nomen est omen oder Wie dieser Blog zu seinem Namen kam
-description: "Ursprünglich der Titel eines kleinen Leitfadens, soll die Grundidee mit neuen Inhalten als Website wiederbelebt werden."
 date:   2019-12-27 17:31:35 +0100
+lang: de
 categories: einleitung
+description: "Ursprünglich der Titel eines kleinen Leitfadens, soll die Grundidee mit neuen Inhalten als Website wiederbelebt werden."
 ---
 
 Ursprünglich war _1 Minute Webdesign_ der Titel eines kleinen Leitfadens, den ich während eines Kurses geschrieben hatte. Meine Kurskollegen konnten mit dem Vortrag wenig anfangen, und die Pausen zwischen den Unterrichtseinheiten waren kurz. Also überlegte ich mir einen Weg, das zu vermittelnde Wissen in kleinen, leicht verdaulichen Häppchen nachzureichen.

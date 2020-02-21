@@ -2,9 +2,10 @@
 layout: post
 title:  "Jekyll: Wortanzahl und Lesezeit in Artikeln anzeigen"
 date:   2020-02-15 13:32:35 +0100
-description: "Eine einfache Lösung, um Wortanzahl und Lesezeit in einem Jekyll–Post auszugeben."
+lang: de
 categories: werkzeuge
-tags: [Liquid, GitHub]
+description: "Eine einfache Lösung, um Wortanzahl und Lesezeit in einem Jekyll–Post auszugeben."
+tags: [Jekyll, Lesezeit, Liquid, GitHub]
 ---
 Ich habe es immer als sehr praktisch empfunden, bereits vor Beginn der Lektüre wenigstens ungefähr zu wissen wie lange ein Artikel ist. Wer will schon den Lesefluss unterbrechen müssen, weil die vorhandene Zeit nicht reicht? Aber auch als Autor finde ich es angenehm, möglichst früh zu wissen, ob ein Artikel zu lang zu werden droht.<!--more-->
 

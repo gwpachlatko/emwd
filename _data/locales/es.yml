@@ -1,0 +1,44 @@
+# Strings for dates
+# language Spanish
+abbreviated_weekday:
+  - <abbr>Lu.</abbr>
+  - <abbr>Ma.</abbr>
+  - <abbr>Mi.</abbr>
+  - <abbr>Ju.</abbr>
+  - <abbr>Vi.</abbr>
+  - <abbr>Sá.</abbr>
+  - <abbr>Do.</abbr>
+full_weekday:
+  - domingo
+  - lunes
+  - martes
+  - miércoles
+  - jueves
+  - viernes
+  - sábado
+abbreviated_month:
+  - de enero de
+  - de <abbr>feb.</abbr> de
+  - de marzo de
+  - de <abbr>abr.</abbr> de
+  - de mayo de
+  - de <abbr>jun.</abbr> de
+  - de <abbr>jul.</abbr> de
+  - de agosto de
+  - de <abbr>sept.</abbr> de
+  - de <abbr>oct.</abbr> de
+  - de <abbr>nov.</abbr> de
+  - de <abbr>dic.</abbr> de
+full_month:
+  - de enero de
+  - de febrero de
+  - de marzo de
+  - de abril de
+  - de mayo de
+  - de junio de
+  - de julio de
+  - de agosto de
+  - de septiembre de
+  - de octubre de
+  - de noviembre de
+  - de diciembre de

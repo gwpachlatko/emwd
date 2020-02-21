@@ -1,0 +1,38 @@
+{% assign s_lang = site.lang %}
+{% assign p_lang = post.lang %}
+
+{% if p_lang != s_lang %}
+{% case p_lang %}
+  {% when 'de' %}
+    {% assign read_more = "Weiterlesen" %}
+  {% when 'fr' %}
+    {% assign read_more = "Lire la suite" %}
+  {% when 'it' %}
+    {% assign read_more = "Leggi di più" %}
+  {% when 'es' %}
+    {% assign read_more = "Lea mas" %}
+  {% when 'pt' %}
+    {% assign read_more = "Leia mais" %}
+  {% else %}
+    {% assign read_more = "Read more" %}
+{% endcase %}
+
+{% else %}
+
+{% case s_lang %}
+  {% when 'de' %}
+    {% assign read_more = "Weiterlesen" %}
+  {% when 'fr' %}
+    {% assign read_more = "Lire la suite" %}
+  {% when 'it' %}
+    {% assign read_more = "leggi di più" %}
+  {% when 'es' %}
+    {% assign read_more = "Lea mas" %}
+  {% when 'pt' %}
+    {% assign read_more = "Leia mais" %}
+  {% else %}
+    {% assign read_more = "Read more" %}
+{% endcase %}
+
+{% endif %}
+<p>{{ read_more }}: <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></p>

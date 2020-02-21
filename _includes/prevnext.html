@@ -1,33 +1,61 @@
 <div class="prevnext">
-  {% assign p_lang = page.lang %}
+{% assign s_lang = site.lang %}
+{% assign p_lang = page.lang %}
+
+{% if p_lang != s_lang %}
 
 {% case p_lang %}
-  {% when 'en' %}
-    {% assign prev = "Previous" %}
-    {% assign next = "Next" %}
-    {% when 'fr' %}
-      {% assign prev = "Précédent" %}
-      {% assign next = "Suivant" %}
-    {% when 'it' %}
-      {% assign prev = "Precedente" %}
-      {% assign next = "Seguente" %}
-      {% when 'es' %}
-        {% assign prev = "Anterior" %}
-        {% assign next = "Siguiente" %}
-    {% when 'pt' %}
-      {% assign prev = "Anterior" %}
-      {% assign next = "Siguiente" %}
-  {% else %}
+  {% when 'de' %}
     {% assign prev = "Vorheriger" %}
     {% assign next = "N&auml;chster" %}
+  {% when 'fr' %}
+    {% assign prev = "Précédent" %}
+    {% assign next = "Suivant" %}
+  {% when 'it' %}
+    {% assign prev = "Precedente" %}
+    {% assign next = "Seguente" %}
+  {% when 'es' %}
+    {% assign prev = "Anterior" %}
+    {% assign next = "Siguiente" %}
+  {% when 'pt' %}
+    {% assign prev = "Anterior" %}
+    {% assign next = "Siguiente" %}
+  {% else %}
+    {% assign prev = "Previous" %}
+    {% assign next = "Next" %}
 {% endcase %}
+
+{% else %}
+
+{% case s_lang %}
+  {% when 'de' %}
+    {% assign prev = "Vorheriger" %}
+    {% assign next = "N&auml;chster" %}
+  {% when 'fr' %}
+    {% assign prev = "Précédent" %}
+    {% assign next = "Suivant" %}
+  {% when 'it' %}
+    {% assign prev = "Precedente" %}
+    {% assign next = "Seguente" %}
+  {% when 'es' %}
+    {% assign prev = "Anterior" %}
+    {% assign next = "Siguiente" %}
+  {% when 'pt' %}
+    {% assign prev = "Anterior" %}
+    {% assign next = "Siguiente" %}
+  {% else %}
+    {% assign prev = "Previous" %}
+    {% assign next = "Next" %}
+{% endcase %}
+
+{% endif %}
 
   <p>
   {% if page.previous.url %}
-    <a title="{{page.previous.title}}" href="{{site.baseurl}}{{page.previous.url}}">&laquo; {{ prev }}</a>
+    <a title="{{ page.previous.lang | capitalize }}: {{page.previous.title}}" href="{{site.baseurl}}{{page.previous.url}}">&laquo; {{ prev }}</a>
   {% endif %}
   {% if page.next.url %}
-    <a title="{{page.next.title}}" href="{{site.baseurl}}{{page.next.url}}">{{ next }} &raquo;</a>
+    <a title="{{ page.next.lang | capitalize }}: {{page.next.title}}" href="{{site.baseurl}}{{page.next.url}}">{{ next }} &raquo;</a>
   {% endif %}
   </p>
 </div>

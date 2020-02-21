@@ -1,0 +1,43 @@
+# Strings for dates in English
+abbreviated_weekday:
+  - <abbr>Sun</abbr>
+  - <abbr>Mon</abbr>
+  - <abbr>Tue</abbr>
+  - <abbr>Wed</abbr>
+  - <abbr>Thu</abbr>
+  - <abbr>Fri</abbr>
+  - <abbr>Sat</abbr>
+full_weekday:
+  - Sunday
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
+  - Saturday
+abbreviated_month:
+  - <abbr>Jan</abbr>
+  - <abbr>Feb</abbr>
+  - <abbr>Mar</abbr>
+  - <abbr>Apr</abbr>
+  - May
+  - <abbr>Jun</abbr>
+  - <abbr>Jul</abbr>
+  - <abbr>Aug</abbr>
+  - <abbr>Sep</abbr>
+  - <abbr>Oct</abbr>
+  - <abbr>Nov</abbr>
+  - <abbr>Dec</abbr>
+full_month:
+  - January
+  - February
+  - March
+  - April
+  - May
+  - June
+  - July
+  - August
+  - September
+  - October
+  - November
+  - December

@@ -1,0 +1,44 @@
+# Strings for dates
+# language Italian
+abbreviated_weekday:
+  - <abbr>Lu.</abbr>
+  - <abbr>Ma.</abbr>
+  - <abbr>Mi.</abbr>
+  - <abbr>Ju.</abbr>
+  - <abbr>Vi.</abbr>
+  - <abbr>Sá.</abbr>
+  - <abbr>Do.</abbr>
+full_weekday:
+  - domenica
+  - lunedì
+  - martedì
+  - mercoledì
+  - giovedi
+  - venerdi
+  - sabato
+abbreviated_month:
+  - <abbr>genn.<abbr>
+  - <abbr>febb.</abbr>
+  - <abbr>mar.</abbr>
+  - <abbr>apr.</abbr>
+  - <abbr>magg.</abbr>
+  - giugno
+  - luglio
+  - <abbr>ag.</abbr>
+  - <abbr>sett.</abbr>
+  - <abbr>ott.</abbr>
+  - <abbr>nov.</abbr>
+  - <abbr>dic.</abbr>
+full_month:
+  - gennaio
+  - febbraio
+  - marzo
+  - aprile
+  - maggio
+  - giugno
+  - luglio
+  - agosto
+  - settembre
+  - ottobre
+  - novembre
+  - dicembre

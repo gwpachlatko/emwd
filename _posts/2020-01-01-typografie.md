@@ -2,8 +2,9 @@
 layout: post
 title:  Nun sag, wie hast Du’s mit der Typografie?
 date:   2020-01-01 17:31:35 +0100
-description: "Die Typografie ist möglicherweise das letzte Gretchenthema im Webdesign. Die Wahl der passenden Schriftart und die richtige Formatierung können für Lesbarkeit und Verständnis entscheidend sein."
+lang: de
 categories: typografie
+description: "Die Typografie ist möglicherweise das letzte Gretchenthema im Webdesign. Die Wahl der passenden Schriftart und die richtige Formatierung können für Lesbarkeit und Verständnis entscheidend sein."
 tags: [Serifen, Lesbarkeit, Schriftarten, Satzspiegel ]
 ---
 

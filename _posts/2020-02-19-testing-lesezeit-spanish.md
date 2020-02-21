@@ -5,7 +5,7 @@ date:   2020-02-19 09:32:35 +0100
 lang: es
 categories: fehlersuche
 description: "Esta página es solo para pruebas de software en español."
-tags: [JekyllLesezeit]
+tags: [Jekyll, Lesezeit, Español]
 ---
 Abra este artículo para ver la demostración en vivo en Español y cómo implementar el script.
 <!--more-->
@@ -16,7 +16,7 @@ Desea que <em>Lesezeit</em> muestre información <em>en el idioma de su sitio</e
 
 Establecer idioma del sitio en <code>config.yml</code>. En este sitio: <code>lang: de</code>
 
-No establecer el idioma en «frontmatter» de páginas individuales.
+No establecer el idioma en «frontmatter» de las páginas individuales.
 
 <pre>
 ---
@@ -33,7 +33,7 @@ Resultado: <em>Lesezeit</em> muestra el recuento de palabras y el tiempo de lect
 
 ### Caso de uso n. ° 2
 
-Desea que las páginas individuales muestren <em>Lesezeit</em> en (un) idioma(s) <em>diferente(s) del idioma de su sitio</em>.
+Desea que las páginas individuales muestren <em>Lesezeit</em> en (un) idioma(s) <em>distinto(s) al idioma de su sitio</em>.
 
 Establecer idioma del sitio en <code>config.yml</code>. En este sitio: <code>lang: de</code>
 
@@ -47,7 +47,7 @@ date: 2020-02-19 09:32:35 +0100
 lang: es
 categories: fehlersuche
 description: "Esta página es solo para pruebas de software en español."
-tags: [JekyllLesezeit]
+tags: [Jekyll, Lesezeit, Español]
 ---
 </pre>
 

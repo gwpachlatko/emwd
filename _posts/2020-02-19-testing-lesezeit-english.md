@@ -5,7 +5,7 @@ date:   2020-02-19 09:32:35 +0100
 lang: en
 categories: fehlersuche
 description: "This page is for software testing in English only."
-tags: [JekyllLesezeit]
+tags: [Jekyll, Lesezeit, English]
 ---
 Open this article to see the live demo in English and how to deploy the script.
 <!--more-->
@@ -47,7 +47,7 @@ date: 2020-02-19 09:32:35 +0100
 lang: en
 categories: fehlersuche
 description: "This page is for software testing in English only."
-tags: [JekyllLesezeit]
+tags: [Jekyll, Lesezeit, English]
 ---
 </pre>
 
