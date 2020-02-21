@@ -23,6 +23,6 @@ Jekyll liefert die Wortzahl pro Seite ab Werk — das ist praktisch — und mit 
 
 Weil’s so flüssig lief, habe ich das Skript auf insgesamt sechs Sprachen erweitert.
 
-<em>Jekyll Lesezeit</em> besteht aus zwei Dateien: eine arbeitet mit „if … else“ (<code>lesezeit-if.html</code>), die andere mit „switch … case“ (<code>lesezeit-case.html</code>). Verwenden Sie die Variante, die Sie bevorzugen; beide liefern das gleiche Ergebnis.
+<em>Jekyll Lesezeit</em> besteht aus der Datei <code>lesezeit.html</code>. Diese wird an gewünschter Stelle referenziert und das war’s auch schon.
 
 <a title="zum Repository auf GitHub" href="https://github.com/gwpachlatko/jekyll-lesezeit">Quellcodes und Erläuterungen</a> auf GitHub.
