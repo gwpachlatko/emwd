@@ -25,4 +25,6 @@ Weil’s so flüssig lief, habe ich das Skript auf insgesamt sechs Sprachen erwe
 
 <em>Jekyll Lesezeit</em> besteht aus der Datei <code>lesezeit.html</code>. Diese wird an gewünschter Stelle referenziert und das war’s auch schon.
 
+(Update: Die anderen Dateien die sich mittlerweile im selben Verzeichnis befinden, dienen verschiedenen Zwecken und können in Verbindung miteinander oder einzeln — und unabhängig von <em>Lesezeit</em> — verwendet werden. Ihre <a title="Link führt zu einem englischsprachigen Artikel mit detaillierten Erklärungen zu den Dateien" href="https://gwpachlatko.github.io/anything-goes/software/2020/02/21/jekyll-lesezeit-howto.html">Anwendung wird hier erklärt</a>.)
+
 <a title="zum Repository auf GitHub" href="https://github.com/gwpachlatko/jekyll-lesezeit">Quellcodes und Erläuterungen</a> auf GitHub.
