@@ -33,10 +33,21 @@ Dadurch würden die von Ihnen abgesetzten Informationen zwar einigermaßen versc
 
 Ich bin jederzeit gesprächsbereit, wenn Sie das wollen. Schicken Sie mir einfach eine E–Mail mit Ihren Fragen. Sofern diese in einem zivilen Tonfall gestellt und halbwegs verständlich formuliert sind, werde ich selbstverständlich so schnell wie möglich darauf antworten. Anschließend werde ich Ihre Nachricht und Ihre E-Mail Adresse aus meinem System löschen.
 
-Bezüglich Ihres „Rechts auf Vergessenwerden“, waren Sie, so weit es mich betrifft, nie hier. Soll heißen: Da ich Ihre Daten nicht sammle, kann ich diese weder an Sie übermitteln, noch löschen.
+Bezüglich Ihres „Rechts auf Vergessenwerden“, waren Sie, so weit es mich betrifft, nie hier. Soll heißen: Da ich Ihre Daten nicht sammle, kann ich diese weder an Sie übermitteln — oder an Dritte weitergeben — noch löschen.
 
-Sollten Sie allgemeine Fragen zum Serververhalten meines Anbieters haben, folgen Sie bitte dem Verweis zum [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement).
+Sollten Sie allgemeine Fragen zum Serververhalten meines Gastgebers haben, folgen Sie bitte dem Verweis zum [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement).
 
 Welche Software für dieses Angebot zum Einsatz kommt können Sie jederzeit in den [Erläuterungen]({{ site.baseurl }}{% link erlaeuterungen.md %}) nachlesen.
 
-Abschließend sei noch gesagt, dass _1 Minute Webdesign_ weder Gebrauch von _Google Analytics_ noch von Cookies oder sogenannten Third–Party Scripts macht.
+Abschließend sei noch gesagt, dass _1 Minute Webdesign_ weder Gebrauch von _Google Analytics_ noch von Cookies oder sogenannten Third–Party Scripts macht. Allerdings verwenden diese Seiten _Google Fonts_ mittels Referenzverweis im Kopf dieser Seiten. Dies können Sie im Quellcode dieser Seite überprüfen:
+
+In Zeile 19 den Eintrag: <code>&lt;link href&#61;&#34;https&#58;&#47;&#47;fonts.googleapis.com&#47;css&#63;family&#61;Alegreya&#58;400,400italic&amp;display&#61;swap&#34; rel&#61;&#34;stylesheet&#34; &#47;&gt;</code>
+
+Benutzen Sie einen traditionellen Computer, tippen Sie <code><abbr>Strg</abbr>+u</code>. Der Quellcode wird in einem neuen Tab angezeigt.
+
+An einem mobilen Android Endgerät, erweitern Sie einfach den Eintrag im Adressfeld Ihres Ausgabegeräts händisch. Tippen Sie <code>view-source:</code> (ohne Leerzeichen) direkt vor den <abbr title="Uniform Resource Locator; die Webadresse einer Seite">URL</abbr> der entsprechenden Seite.
+
+Sollten Sie ein sogenanntes iPhone verwenden, folgen Sie bitte dieser Anleitung: <a rel="external" title="Anleitung zum Einsehen des Quellcodes von Webseiten mit iPhone von Chip.de Praxistipps" href="https://praxistipps.chip.de/quelltext-einer-website-auf-dem-iphone-oder-ipad-anzeigen-geht-das_13803">Quellcode von Webseiten mit iPhone ansehen (Chip Praxistipp)</a>.
+
+
+Diese Seite wurde am 24. Februar 2020 aktualisiert.
