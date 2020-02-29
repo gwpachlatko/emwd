@@ -39,9 +39,9 @@ Sollten Sie allgemeine Fragen zum Serververhalten meines Gastgebers haben, folge
 
 Welche Software für dieses Angebot zum Einsatz kommt können Sie jederzeit in den [Erläuterungen]({{ site.baseurl }}{% link erlaeuterungen.md %}) nachlesen.
 
-Abschließend sei noch gesagt, dass _1 Minute Webdesign_ weder Gebrauch von _Google Analytics_ noch von Cookies oder sogenannten Third–Party Scripts macht. Allerdings verwenden diese Seiten _Google Fonts_ mittels Referenzverweis im Kopf dieser Seiten. Dies können Sie im Quellcode dieser Seite überprüfen:
+Abschließend sei noch gesagt, dass _1 Minute Webdesign_ weder Gebrauch von _Google Analytics_ noch von Cookies oder sogenannten Third–Party Scripts macht. Allerdings verwenden diese Seiten _Google Fonts_ mittels Referenzverweis im Seitenkopf. Dies können Sie im Quellcode dieser Seite überprüfen. In Zeile 19 finden Sie:
 
-In Zeile 19 den Eintrag: <code>&lt;link href&#61;&#34;https&#58;&#47;&#47;fonts.googleapis.com&#47;css&#63;family&#61;Alegreya&#58;400,400italic&amp;display&#61;swap&#34; rel&#61;&#34;stylesheet&#34; &#47;&gt;</code>
+<code>&lt;link href&#61;&#34;https&#58;&#47;&#47;fonts.googleapis.com&#47;css&#63;family&#61;Alegreya&#58;400,400italic&amp;display&#61;swap&#34; rel&#61;&#34;stylesheet&#34; &#47;&gt;</code>
 
 Benutzen Sie einen traditionellen Computer, tippen Sie <code><abbr>Strg</abbr>+u</code>. Der Quellcode wird in einem neuen Tab angezeigt.
 
@@ -50,4 +50,4 @@ An einem mobilen Android Endgerät, erweitern Sie einfach den Eintrag im Adressf
 Sollten Sie ein sogenanntes iPhone verwenden, folgen Sie bitte dieser Anleitung: <a rel="external" title="Anleitung zum Einsehen des Quellcodes von Webseiten mit iPhone von Chip.de Praxistipps" href="https://praxistipps.chip.de/quelltext-einer-website-auf-dem-iphone-oder-ipad-anzeigen-geht-das_13803">Quellcode von Webseiten mit iPhone ansehen (Chip Praxistipp)</a>.
 
 
-Diese Seite wurde am 24. Februar 2020 aktualisiert.
+Diese Seite wurde am 29. Februar 2020 aktualisiert.
