@@ -3,6 +3,15 @@
 ---
 
 @import "minima";
+.clip {
+  clip: rect(1px 1px 1px 1px); /* IE 6/7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
 body {font-family: "Alegreya", serif; font-size: 1.1em; }
 .page-content { margin-top: 1em; }
 figure { margin: 1.618em auto; }
@@ -20,10 +29,10 @@ p a:link, .site-footer a:link { color: #900; border-bottom: 2px #900 solid; }
 p a:visited, .site-footer a:visited { color: #111; border-bottom: 2px #111 solid; }
 p a:hover, .site-footer a:hover { text-decoration: none; border-bottom: none; }
 .prevnext { margin: 3em auto; text-align: center; }
-.prevnext a:link { margin: 0 .809em; padding: .405em; border: 1px #900 solid; border-radius: 3px;  color:#fff; background-color: #900; font-size: 20px; color: #fff; text-decoration: none; }
-.prevnext a:visited { background-color: #111; color: #fff; border: 1px #111 solid; }
-.prevnext a:hover { background-color: #111; border: 1px #111 solid; }
-.readmore { border-bottom: 1px #eee solid; padding-bottom: 2em; }
+.readmore a:link, .prevnext a:link { margin: 0; padding: .203em; border: 1px #900 solid; border-radius: 3px;  color:#fff; background-color: #900; font-size: 20px; color: #fff; text-decoration: none; }
+.readmore a:visited, .prevnext a:visited { background-color: #111; color: #fff; border: 1px #111 solid; }
+.readmore a:hover, .prevnext a:hover { background-color: #111; border: 1px #111 solid; }
+.readmore { margin-bottom: 2em; padding-bottom: 1em; border-bottom: 1px #eee solid; text-align: right; }
 .site-footer { padding-bottom: 3em; }
 /* gesonderte Anweisungen für Artikel über Typografie */
 p a.text{color:#000;border-bottom:none;font-style:italic;}

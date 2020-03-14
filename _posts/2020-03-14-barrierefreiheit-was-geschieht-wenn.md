@@ -7,7 +7,7 @@ categories: werkzeuge
 description: "Dieser Artikel geht der Frage nach, warum Barrierefreiheit wichtig ist und wie sie rasch umgesetzt werden könnte."
 tags: [Barrierefreiheit, Accessibility]
 ---
-Der größte, zeitaufwendigste, aber auch wichtigste Teil der Arbeit guter Designer besteht in der Suche nach Antworten auf eher unangenehme Fragen. Wie etwa: „Was, wenn etwas nicht wie vorgesehen funktioniert?“
+Der größte, zeitaufwendigste, aber auch wichtigste Teil der Arbeit guter Designer besteht in der Suche nach Antworten auf eher unangenehme Fragen. Wie etwa: „Was, wenn etwas nicht nach Plan funktioniert?“
 
 Stühle können unter den Sitzenden zusammenbrechen. Das teuerste Auto kann einmal ein Rad verlieren. Und die aufwendigst entworfene Website kann sich plötzlich in einer Umgebung befinden, die bestimmte Technologien nicht unterstützt. Für diese Fälle sollten Entwickler und Designer bereits vor der Markteinführung Lösungen haben. Diese zu finden ist Teil des Entwicklungsprozesses.
 <!--more-->
@@ -18,7 +18,7 @@ Die wahren Herausforderungen ergeben sich erst durch etwaige Einschränkungen; s
 
 Natürlich kann nicht „jeder“ ein Haus, ein Auto oder eben eine Website entwerfen und dem Entwurf entsprechend herstellen, aber die allernotwendigsten Voraussetzungen sind gering und relativ leicht erfüllt.
 
-Was die sprichwörtliche Spreu vom Weizen trennt ist die Antwort auf die Frage, ob jemand (freiwillig) in diesem Haus wohnen würde, ob dieses Auto eine Straßenzulassung bekäme oder wie viele Menschen diese Website sinnvoll (und mühelos) nutzen können.
+Was die sprichwörtliche Spreu vom Weizen trennt, ist die Antwort auf die Frage, ob jemand (freiwillig) in diesem Haus wohnen würde, ob dieses Auto eine Straßenzulassung bekäme oder wie viele Menschen diese Website sinnvoll (und mühelos) nutzen können.
 
 ### Barrierefreiheit ist nicht „sexy“
 
@@ -28,11 +28,11 @@ Barrierefreiheit wird von einer breiten Öffentlichkeit immer noch nicht ernst g
 
 Barrierefreiheit ist nach wie vor das vernachlässigte Kind, das mit hängendem Kopf im Hinterhof einen abgewetzten Ball gegen die Wand tritt. Es hat wenige Freunde und versteht nicht, wieso.
 
-Das liegt nicht an etwaigen Schwierigkeiten oder Hürden die Designer überwinden müssten. Es liegt auch nicht an zu knappen Budgets der Auftraggeber.
+Das liegt nicht an etwaigen Schwierigkeiten oder Hürden die Designer bei der Umsetzung überwinden müssten. Es liegt auch nicht an zu knappen Budgets der Auftraggeber.
 
 Beide sind beim Einsatz wertvoller Ressourcen wenig zimperlich, um einzelne Webauftritte in exotischen Ausgabegeräten (die statistisch eine Verbreitung von deutlich weniger als 1 % weltweit haben) möglichst identisch darzustellen.
 
-Doch wenn es nur darum geht Verweise korrekt auszuzeichnen oder den Kontrast zwischen Schrift und Hintergrund um das sprichwörtliche <span title="der 12. Buchstabe im griechischen Alphabet; sprich „Mü“, schreibe „My“">µ</span> zu erhöhen, bricht sich jedes Mal die „Sinnkrise“ Bahn.
+Doch wenn es nur darum geht Verweise korrekt auszuzeichnen oder den Kontrast zwischen Schrift und Hintergrund um das sprichwörtliche <span title="der 12. Buchstabe im griechischen Alphabet; sprich „Mü“, schreibe „My“">µ</span> zu erhöhen, bricht jedes Mal die „Sinnkrise“ aus.
 
 ### Die im Dunkeln sieht man nicht
 
@@ -60,11 +60,11 @@ Im dritten Durchgang nehmen Sie ein Stück Seife, bemalen ein Ende mit dem Perma
 
 Fertig? Schön. Ob Sie wollten oder nicht, Sie haben soeben Ihren Horizont erweitert. Dieser Umstand alleine macht Sie schon zu einem besseren Designer — ganz unabhängig davon wie das Ergebnis letztlich ausgefallen ist, wie talentiert Sie eigentlich sind und wie erfahren Sie schon vor dem Experiment waren.
 
-Für einen Techniker mit dem entsprechenden Werkzeug ist das Millimeterpapier gut „zugänglich“. Für jemanden der vielleicht nicht so geübt ist, kein so scharfes Auge, keine so ruhige Hand oder einfach das „falsche“ Werkzeug hat, eher nicht. Und so verhält es sich leider auch oft mit Online–Dokumenten. Wir denken über mögliche Einschränkungen gar nicht nach, wenn sie uns (zufällig) nicht betreffen.
+Für einen Techniker mit dem entsprechenden Werkzeug ist das Millimeterpapier gut „zugänglich“. Für jemanden, der vielleicht nicht so geübt ist, kein so scharfes Auge, keine so ruhige Hand oder einfach das „falsche“ Werkzeug hat, eher nicht. Und so verhält es sich leider auch oft mit Online–Dokumenten. Wir denken über mögliche Einschränkungen gar nicht nach, wenn sie uns (zufällig) nicht betreffen.
 
-Manchmal bemerken wir zwar, dass wir uns „schwer tun“, erkennen aber nicht, dass wir tatsächlich „behindert“ werden. Beim oben erwähnten Millimeterpapier lässt sich daran kaum etwas ändern. Die Kästchen sind immer (ziemlich) genau einen Quadratmillimeter groß, egal wie gut wir sehen, wie ruhig unsere Hand ist, oder wie stumpf unser Werkzeug.
+Manchmal bemerken wir zwar, dass wir uns „irgendwie schwertun“, erkennen aber nicht, dass wir tatsächlich „behindert“ werden. Beim oben erwähnten Millimeterpapier lässt sich daran kaum etwas ändern. Die Kästchen sind immer (ziemlich) genau einen Quadratmillimeter groß, egal wie gut wir sehen, wie ruhig unsere Hand ist oder wie stumpf unser Werkzeug.
 
-Andernfalls könnten wir die Kästchen für unser Experiment so weit ausdehnen, dass auch die viel zu breite Spitze des Permanentmarkers darin Platz findet und eine exakte Linie mit dem bemalten Seifenstück zu ziehen bequem möglich wäre.  
+Andernfalls könnten wir die Kästchen für unser Experiment so weit ausdehnen, dass auch die viel zu breite Spitze des Permanentmarkers darin Platz findet, und sogar eine exakte Linie mit dem bemalten Seifenstück zu ziehen, bequem möglich wäre.
 
 ### Keine Erwartungen, keine Enttäuschungen
 
@@ -82,9 +82,9 @@ Ja, ich habe ein unglaubliches Fingerspitzengefühl, keine motorischen Einschrä
 
 So etwas wie den „Normalfall“ gibt es eigentlich gar nicht. Falls überhaupt, gibt es eine „gefühlte“ Mehrheit. Doch auch diese ist unglaublich relativ. Wir Menschen sind kompliziert und jeder Tag ist anders. Der einzige vielversprechende Ansatz ist daher, den „größten gemeinsamen Nenner“ zu finden.
 
-Übrigens: Suchen Sie nicht den landläufig (meist fälschlich) zitierten „kleinsten gemeinsamen Nenner“. Das wäre mathematischer (und sprachlicher) Unsinn. Sie wollen Ihr Website möglichst vielen Menschen zugänglich machen — andernfalls bräuchten Sie diese nicht erst zu veröffentlichen.
+Übrigens: Suchen Sie nicht den landläufig (meist fälschlich) zitierten „kleinsten gemeinsamen Nenner“. Das wäre mathematischer (und sprachlicher) Unsinn. Sie wollen Ihre Website möglichst vielen Menschen zugänglich machen — andernfalls bräuchten Sie diese nicht erst zu veröffentlichen.
 
-Paradoxerweise sind — wohl gerade weil wir Menschen und unsere Herangehensweisen zu unterschiedlich sind — die „Modellbenutzer“ für den „Normalfall“ keine menschlichen Besucher. Um die Zugänglichkeit einer Website am ehesten zu gewährleisten, wäre es durchaus sinnvoll, sich an Bots (besonders den Google Bots) zu orientieren. Denn diese besuchen wesentlich mehr (unterschiedliche) Seiten als jeder einzelne Benutzer weltweit und decken gleichzeitig die größtmögliche Schnittmenge an Sonderfällen ab:
+Paradoxerweise sind — wohl gerade, weil wir Menschen und unsere Herangehensweisen zu unterschiedlich sind — die „Modellbenutzer“ für den „Normalfall“ keine menschlichen Besucher. Um die Zugänglichkeit einer Website am ehesten zu gewährleisten, wäre es durchaus sinnvoll, sich an Bots (besonders den Google Bots) zu orientieren. Denn diese besuchen wesentlich mehr (unterschiedliche) Seiten als jeder einzelne Benutzer weltweit und decken gleichzeitig die größtmögliche Schnittmenge an Sonderfällen ab:
 
 <ul>
 <li>Sie können unsere Seiten nicht sehen</li>
@@ -100,7 +100,7 @@ Mit anderen Worten, sie scheitern an (fast) allen denkbaren Barrieren. Unglückl
 
 Doch sollten wir unsere Seiten nicht eigentlich für die Menschen da draußen entwerfen? Natürlich sollten wir das. Doch wir tun es auch, wenn wir uns an Bots orientieren. Je besser diese Zugang zu den angebotenen Inhalten haben, umso höher ist die Wahrscheinlichkeit, dass unsere Seiten vernünftig bewertet und indiziert werden. Dies wiederum verbessert die Suchergebnisse für menschliche Benutzer (zumindest theoretisch).
 
-Stellen Sie sich vor, Seitenbetreiber bekämen nach dem Besuch eines Bots folgende E–mail:
+Stellen Sie sich vor, Seitenbetreiber bekämen nach dem Besuch eines Bots folgende E–Mail:
 
 <figure>
 <blockquote>
@@ -108,8 +108,7 @@ Stellen Sie sich vor, Seitenbetreiber bekämen nach dem Besuch eines Bots folgen
 Geschätzter Seitenbetreiber,<br />
 leider sind Ihre Verweise mangelhaft ausgezeichnet. Ihre Besucher sollen das Ziel eines Links erkennen können, <em>bevor</em> sie diesem tatsächlich folgen.</p>
 
-<p>Daher wird Ihre kompletter Webauftritt bis zur Behebung der bestehenden Mängel in unseren Suchergebnissen nicht berücksichtigt. Erwarten Sie meinen nächsten Besuch gegen Ende dieses Monats.<br />
-(Anbei finden Sie eine Auflistung der bemängelten Stellen.)<br />
+<p>Daher werde ich Ihren Webauftritt bis zur Behebung der bestehenden Mängel nicht in unseren Suchergebnissen berücksichtigt. Erwarten Sie meinen nächsten Besuch gegen Ende dieses Monats. (Anbei finden Sie eine Auflistung der bemängelten Stellen.)<br />
 Mit freundlichen Grüßen,<br />
 G. Bot
 </p>
@@ -118,4 +117,4 @@ G. Bot
 
 Wie lange würde es wohl dauern, bis alle Online–Dokumente für menschliche Benutzer zugänglich wären, wenn Bots alle Auftritte die Barrieren enthalten (mindestens) bis zu ihrem nächsten Besuch aus den Suchergebnissen entfernten?
 
-Logischerweise würde damit auch die Gesamtqualität des Online–Angebots steigen, denn mit jeder Verbesserung der Zugänglichkeit würde automatisch der Inhalt einzelner Auftritte (und damit zwangsläufig auch die Suchergebnisse) für eine größere Besucherzahl relevanter. Und Barrierefreiheit würde ganz schnell unglaublich „sexy“ werden.
+Logischerweise würde damit auch die Gesamtqualität des Online–Angebots steigen, denn mit jeder Verbesserung der Zugänglichkeit würde automatisch der Inhalt einzelner Auftritte (und damit zwangsläufig auch die Suchergebnisse) für eine größere Besucherzahl relevant. Und Barrierefreiheit würde ganz schnell unglaublich „sexy“ werden.
