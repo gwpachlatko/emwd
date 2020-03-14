@@ -108,7 +108,7 @@ Stellen Sie sich vor, Seitenbetreiber bekämen nach dem Besuch eines Bots folgen
 Geschätzter Seitenbetreiber,<br />
 leider sind Ihre Verweise mangelhaft ausgezeichnet. Ihre Besucher sollen das Ziel eines Links erkennen können, <em>bevor</em> sie diesem tatsächlich folgen.</p>
 
-<p>Daher werde ich Ihren Webauftritt bis zur Behebung der bestehenden Mängel nicht in unseren Suchergebnissen berücksichtigt. Erwarten Sie meinen nächsten Besuch gegen Ende dieses Monats. (Anbei finden Sie eine Auflistung der bemängelten Stellen.)<br />
+<p>Daher werde ich Ihren Webauftritt bis zur Behebung der bestehenden Mängel nicht in unseren Suchergebnissen berücksichtigen. Erwarten Sie meinen nächsten Besuch gegen Ende dieses Monats. (Anbei finden Sie eine Auflistung der bemängelten Stellen.)<br />
 Mit freundlichen Grüßen,<br />
 G. Bot
 </p>
