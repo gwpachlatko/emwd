@@ -4,13 +4,18 @@
 
 @import "minima";
 body {font-family: "Alegreya", serif; font-size: 1.1em; }
+.page-content { margin-top: 1em; }
 figure { margin: 1.618em auto; }
-img { width: 100%; }
-ul li { list-style: none; }
+blockquote {color: #111; border-left: 5px solid #eee; font-size: 1em; letter-spacing: 1px; }
+figcaption { font-size: .809em; }
+figcaption p.person:before { content:"\2014 " }
+img { width: 100%; height: auto; }
+.post-content ul li { padding-left: 25px; background: url(../images/bullet.png) left 7px no-repeat ; list-style-type: none;}
 .site-title { padding-left: 30px; background: url(../images/logo.png) 0 15px no-repeat; }
-h2 a:link { color: #900; }
+h2 a:link { color: #900; font-size: 1.2em; line-height: 1em; }
 h2 a:visited { color: #111; }
-.post-meta { font-size: 19px; }
+h4 { font-weight: 700; font-size: 20px; }
+.post-meta {font-size: 19px; color: #666; }
 p a:link, .site-footer a:link { color: #900; border-bottom: 2px #900 solid; }
 p a:visited, .site-footer a:visited { color: #111; border-bottom: 2px #111 solid; }
 p a:hover, .site-footer a:hover { text-decoration: none; border-bottom: none; }
@@ -18,6 +23,8 @@ p a:hover, .site-footer a:hover { text-decoration: none; border-bottom: none; }
 .prevnext a:link { margin: 0 .809em; padding: .405em; border: 1px #900 solid; border-radius: 3px;  color:#fff; background-color: #900; font-size: 20px; color: #fff; text-decoration: none; }
 .prevnext a:visited { background-color: #111; color: #fff; border: 1px #111 solid; }
 .prevnext a:hover { background-color: #111; border: 1px #111 solid; }
+.readmore { border-bottom: 1px #eee solid; padding-bottom: 2em; }
+.site-footer { padding-bottom: 3em; }
 /* gesonderte Anweisungen für Artikel über Typografie */
 p a.text{color:#000;border-bottom:none;font-style:italic;}
 p a.navy{color:#009;border-bottom:none;text-decoration:underline;}
