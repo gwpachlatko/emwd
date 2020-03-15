@@ -1,17 +1,10 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
+/* customised style*/
 @import "minima";
-.clip {
-  clip: rect(1px 1px 1px 1px); /* IE 6/7 */
-  clip: rect(1px, 1px, 1px, 1px);
-  height: 1px;
-  overflow: hidden;
-  position: absolute;
-  white-space: nowrap;
-  width: 1px;
-}
+.clip { position: absolute;clip: rect(1px 1px 1px 1px);clip: rect(1px, 1px, 1px, 1px);width: 1px;height: 1px;overflow: hidden;
+  white-space: nowrap; }
 body {font-family: "Alegreya", serif; font-size: 1.1em; }
 .page-content { margin-top: 1em; }
 figure { margin: 1.618em auto; }
@@ -34,6 +27,22 @@ p a:hover, .site-footer a:hover { text-decoration: none; border-bottom: none; }
 .readmore a:hover, .prevnext a:hover { background-color: #111; border: 1px #111 solid; }
 .readmore { margin-bottom: 2em; padding-bottom: 1em; border-bottom: 1px #eee solid; text-align: right; }
 .site-footer { padding-bottom: 3em; }
+
+.navigation { position: absolute; top: 16px; right: 20px; color: #fff;}
+.sidenav{height: 25%;width: 0;position: fixed;z-index: 2;top: 0;right: 0;background-color: #111;overflow-x: hidden;transition: 0.5s;padding-top: 60px;}
+.sidenav a {padding: 8px 8px 8px 32px;text-decoration: none;font-size: 25px;color: #818181;display: block;transition: 0.3s;}
+.sidenav a:active, .sidenav a:focus, .sidenav a:hover{
+  color: #f1f1f1;
+}
+.active{background-color: rgba(60,0,0,.9);border-left: 10px solid rgba(128,0,0,1);
+}
+.opennav{position:absolute;top:0;right:0;border:1px solid #000;border-radius:5px;width:35px;height:35px;cursor:pointer;background:#fff;}
+.closenav{position:absolute;top:21px;right:20px;border:1px solid #000;border-radius:5px;width:35px;height:35px;cursor:pointer;background:#fff;}
+.material-icons { position: absolute; top: 12%; right: 12%;}
+.navbar li { list-style: none; margin-left: -2em; }
+/*.closenav:before{content:'X';color:#000;font-family: sans-serif;font-weight:700;}
+.opennav:before {content: "";color:#000;position: absolute;top: 33%;right:25%;width:1em;height:.125em;border-top: .375em double #fff;border-bottom: .125em solid #fff;}*/
+
 /* gesonderte Anweisungen für Artikel über Typografie */
 p a.text{color:#000;border-bottom:none;font-style:italic;}
 p a.navy{color:#009;border-bottom:none;text-decoration:underline;}
