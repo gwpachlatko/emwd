@@ -7,9 +7,9 @@
 
     {%- if page_paths -%}
       <nav class="navigation">
-        <button class="opennav" id="navToggle" aria-label="Navigation öffnen" onclick="openNav()"><i class="material-icons">menu</i></button>
+        <button class="opennav" id="navToggle" aria-label="Navigation öffnen" onclick="openNav()"><span class="material-icons">menu</span></button>
         <div id="sideNav" class="sidenav">
-          <button class="closenav" aria-label="Navigation schließen" onclick="closeNav()"><i class="material-icons">close</i></button>
+          <button class="closenav" aria-label="Navigation schließen" onclick="closeNav()"><span class="material-icons">close</span></button>
           <ul class="navbar">
             <li><a class="page-link" href="#content" onclick="closeNav()">Navigation überspringen</a></li>
           {%- for path in page_paths -%}
