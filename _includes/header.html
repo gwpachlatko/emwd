@@ -11,11 +11,11 @@
         <div id="sideNav" class="sidenav">
           <button class="closenav" aria-label="Navigation schließen" onclick="closeNav()"><i class="material-icons">close</i></button>
           <ul class="navbar">
-            <li><a class="page-link" href="#content">Navigation überspringen</a></li>
+            <li><a class="page-link" href="#content" onclick="closeNav()">Navigation überspringen</a></li>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+            <li><a class="page-link" href="{{ my_page.url | relative_url }}#content" onclick="closeNav()">{{ my_page.title | escape }}</a></li>
             {%- endif -%}
           {%- endfor -%}
         </ul>

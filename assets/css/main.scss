@@ -22,10 +22,10 @@ p a:link, .site-footer a:link { color: #900; border-bottom: 2px #900 solid; }
 p a:visited, .site-footer a:visited { color: #111; border-bottom: 2px #111 solid; }
 p a:hover, .site-footer a:hover { text-decoration: none; border-bottom: none; }
 .prevnext { margin: 3em auto; text-align: center; }
-.readmore a:link, .prevnext a:link { margin: 0; padding: .203em; border: 1px #900 solid; border-radius: 3px;  color:#fff; background-color: #900; font-size: 20px; color: #fff; text-decoration: none; }
+.readmore a:link, .prevnext a:link { margin: 0; padding: .203em .405em; border: 1px #900 solid; border-radius: 3px;  color:#fff; background-color: #900; font-size: 20px; color: #fff; text-decoration: none; }
 .readmore a:visited, .prevnext a:visited { background-color: #111; color: #fff; border: 1px #111 solid; }
 .readmore a:hover, .prevnext a:hover { background-color: #111; border: 1px #111 solid; }
-.readmore { margin-bottom: 2em; padding-bottom: 1em; border-bottom: 1px #eee solid; text-align: right; }
+.readmore { margin-bottom: 2em; padding-bottom: 1em; border-bottom: 1px #eee solid; }
 .site-footer { padding-bottom: 3em; }
 
 .navigation { position: absolute; top: 16px; right: 20px; color: #fff;}
@@ -40,8 +40,7 @@ p a:hover, .site-footer a:hover { text-decoration: none; border-bottom: none; }
 .closenav{position:absolute;top:21px;right:20px;border:1px solid #000;border-radius:5px;width:35px;height:35px;cursor:pointer;background:#fff;}
 .material-icons { position: absolute; top: 12%; right: 12%;}
 .navbar li { list-style: none; margin-left: -2em; }
-/*.closenav:before{content:'X';color:#000;font-family: sans-serif;font-weight:700;}
-.opennav:before {content: "";color:#000;position: absolute;top: 33%;right:25%;width:1em;height:.125em;border-top: .375em double #fff;border-bottom: .125em solid #fff;}*/
+
 
 /* gesonderte Anweisungen für Artikel über Typografie */
 p a.text{color:#000;border-bottom:none;font-style:italic;}
