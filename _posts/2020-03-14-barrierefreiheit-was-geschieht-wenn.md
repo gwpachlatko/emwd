@@ -22,7 +22,7 @@ Was die sprichwörtliche Spreu vom Weizen trennt, ist die Antwort auf die Frage,
 
 ### Barrierefreiheit ist nicht „sexy“
 
-Ich meine es war Christian Heilmann, der dereinst die Forderung postulierte, wir müssten Barrierefreiheit „sexy“ machen. Ich gab ihm damals recht und leider hatte ich bislang noch keinen Grund, meine Meinung zu ändern.
+Ich meine es war Christian Heilmann, der dereinst postulierte, wir müssten Barrierefreiheit „sexy“ machen. Ich gab ihm damals recht und leider hatte ich bislang noch keinen Grund, meine Meinung zu ändern.
 
 Barrierefreiheit wird von einer breiten Öffentlichkeit immer noch nicht ernst genommen und allen Bemühungen zum Trotz haben wir es nicht geschafft, sie wenigstens „salonfähig“ zu machen.
 
