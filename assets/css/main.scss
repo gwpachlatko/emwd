@@ -6,6 +6,7 @@
 .clip { position: absolute;clip: rect(1px 1px 1px 1px);clip: rect(1px, 1px, 1px, 1px);width: 1px;height: 1px;overflow: hidden;
   white-space: nowrap; }
 body {font-family: "Alegreya", serif; font-size: 1.1em; }
+.site-header {position: fixed;z-index: 2;top: 0;left: 0;width: 100%;background:#fff;border-top:none;}
 .page-content { margin-top: 1em; }
 figure { margin: 1.618em auto; }
 blockquote {color: #111; border-left: 5px solid #eee; font-size: 1em; letter-spacing: 1px; }
@@ -13,7 +14,7 @@ figcaption { font-size: .809em; }
 figcaption p.person:before { content:"\2014 " }
 img { width: 100%; height: auto; }
 .post-content ul li { padding-left: 25px; background: url(../images/bullet.png) left 7px no-repeat ; list-style-type: none;}
-.site-title { padding-left: 30px; background: url(../images/logo.png) 0 15px no-repeat; }
+.site-title { margin-top: -12px;padding-left: 30px; background: url(../images/logo.png) 0 16px no-repeat; }
 h2 a:link { color: #900; font-size: 1.2em; line-height: 1em; }
 h2 a:visited { color: #111; }
 h4 { font-weight: 700; font-size: 20px; }
@@ -29,19 +30,15 @@ p a:hover, .site-footer a:hover { text-decoration: none; border-bottom: none; }
 .site-footer { padding-bottom: 3em; }
 
 .navigation { position: absolute; top: 16px; right: 20px; color: #fff;}
-.sidenav{height: 25%;width: 0;position: fixed;z-index: 2;top: 0;right: 0;background-color: #111;overflow-x: hidden;transition: 0.5s;padding-top: 60px;}
+.sidenav{height: 100%;width: 0;position: fixed;z-index: 2;top: 0;right: 0;background-color: #111;overflow-x: hidden;transition: 0.5s;padding-top: 60px;}
 .sidenav a {padding: 8px 8px 8px 32px;text-decoration: none;font-size: 25px;color: #818181;display: block;transition: 0.3s;}
 .sidenav a:active, .sidenav a:focus, .sidenav a:hover{
   color: #f1f1f1;
 }
-.active{background-color: rgba(60,0,0,.9);border-left: 10px solid rgba(128,0,0,1);
-}
-.opennav{position:absolute;top:0;right:0;border:1px solid #000;border-radius:5px;width:35px;height:35px;cursor:pointer;background:#fff;}
-.closenav{position:absolute;top:21px;right:20px;border:1px solid #000;border-radius:5px;width:35px;height:35px;cursor:pointer;background:#fff;}
+.opennav{position:absolute;top:-5px;right:0;border:1px solid #000;border-radius:5px;width:35px;height:35px;cursor:pointer;background:#fff;}
+.closenav{position:absolute;top:11px;right:20px;border:1px solid #000;border-radius:5px;width:35px;height:35px;cursor:pointer;background:#fff;}
 .material-icons { position: absolute; top: 12%; right: 12%;}
 .navbar li { list-style: none; margin-left: -2em; }
-
-
 /* gesonderte Anweisungen für Artikel über Typografie */
 p a.text{color:#000;border-bottom:none;font-style:italic;}
 p a.navy{color:#009;border-bottom:none;text-decoration:underline;}
