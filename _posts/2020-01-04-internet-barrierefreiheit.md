@@ -12,11 +12,11 @@ tags: [Zugänglichkeit, Accessibility]
 <!--more-->
 <p>Das Internet &#8212; und damit eigentlich auch Webdesign als Konzept &#8212; kennt keine Einschränkungen die wir landläufig als Barrieren bezeichnen. Diese würden schließlich der Absicht, Informationen allgemein zugänglich zu machen, grundsätzlich widersprechen. Webseiten müssen daher nicht barrierefrei „gemacht“ werden — es würde schon reichen, diese barrierefrei zu halten.</p>
 
-<p>Am einfachsten läßt sich diese Aussage (oder Annahme) anhand von Links (Verweisen) in alten (<abbr title="das heißt">d.h.</abbr>, in den 1980er <abbr title="beziehungsweise">bzw.</abbr> frühen 1990er Jahren registrierten) Webseiten, die heute noch verfügbar sind, überprüfen.</p>
+<p>Am einfachsten lässt sich diese Aussage (oder Annahme) anhand von Links (Verweisen) in alten (<abbr title="das heißt">d.h.</abbr>, in den 1980er <abbr title="beziehungsweise">bzw.</abbr> frühen 1990er Jahren registrierten) Webseiten, die heute noch verfügbar sind, überprüfen.</p>
 
-<p>Die überwiegende Mehrheit dieser Dokumente weist noch blaue Links aus, und die allermeisten davon sind tatächlich unterstrichen. Bereits besuchte Verweise werden violett dargestellt (solange, bis der Browserspeicher gelöscht wird), und aktive Links leuchten kurz rot auf (das läßt sich allerdings bei heutigen Verbindungsgeschwindigkeiten kaum mehr erkennen, aber dass diese Seiten keine Anweisungen für die Darstellung von Links enthalten ist ein starkes Indiz dafür).</p>
+<p>Die überwiegende Mehrheit dieser Dokumente weist noch blaue Links aus, und die allermeisten davon sind tatächlich unterstrichen. Bereits besuchte Verweise werden violett dargestellt (solange, bis der Browserspeicher gelöscht wird), und aktive Links leuchten kurz rot auf (das lässt sich allerdings bei heutigen Verbindungsgeschwindigkeiten kaum mehr erkennen, aber dass diese Seiten keine Anweisungen für die Darstellung von Links enthalten ist ein starkes Indiz dafür).</p>
 
-<p>Es läßt sich also festhalten, Links werden standardmäßig leicht erkennbar (und damit gut zugänglich) dargestellt &#8212; und das ist schon &#8222;eine ganze Weile&#8220; so. Ich erinnere mich an kein relevantes Browsermodell, das diese Konvention nicht befolgt hätte.</p>
+<p>Es lässt sich also festhalten, Links werden standardmäßig leicht erkennbar (und damit gut zugänglich) dargestellt &#8212; und das ist schon &#8222;eine ganze Weile&#8220; so. Ich erinnere mich an kein relevantes Browsermodell, das diese Konvention nicht befolgt hätte.</p>
 
 <p>Fügt man nun noch einen Titel (<code>&lt;a title="kurzer, sinnvoller Text, der die Zielseite beschreibt" &#8230;&gt;</code>) in den Anker&#8211;Tag ein, und wählt, wenn irgend möglich, eine sinnvolle Textpassage, die dieser umschließen soll, ist man schon auf der sicheren Seite. Mehr bräuchte es gar nicht.</p>
 

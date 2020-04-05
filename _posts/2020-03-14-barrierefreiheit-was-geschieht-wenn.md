@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Was geschieht eigentlich, wenn ..? oder Warum Barrierefreiheit nicht „sexy“ ist
+title: Warum Barrierefreiheit nicht „sexy“ ist oder Was geschieht eigentlich, wenn ..? 
 date:   2020-03-14 09:32:35 +0100
 lang: de
 categories: werkzeuge

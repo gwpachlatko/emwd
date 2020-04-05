@@ -1,4 +1,4 @@
-<div class="prevnext">
+
 {% assign s_lang = site.lang %}
 {% assign p_lang = page.lang %}
 
@@ -29,8 +29,8 @@
 
 {% case s_lang %}
   {% when 'de' %}
-    {% assign prev = "Vorheriger Beitrag" %}
-    {% assign next = "N&auml;chster Beitrag" %}
+    {% assign prev = "Zurück" %}
+    {% assign next = "Weiter" %}
   {% when 'fr' %}
     {% assign prev = "Précédent" %}
     {% assign next = "Suivant" %}
@@ -50,12 +50,11 @@
 
 {% endif %}
 
-  <p>
+  <p class="prevnext">
   {% if page.previous.url %}
-    <a title="{{ page.previous.lang | capitalize }}: {{page.previous.title}}" href="{{site.baseurl}}{{page.previous.url}}">&laquo; {{ prev }}</a>
+    <a class="prev" title="{{ page.previous.lang | capitalize }}: {{page.previous.title}}" href="{{site.baseurl}}{{page.previous.url}}">&#27; {{ prev }}</a>
   {% endif %}
   {% if page.next.url %}
-    <a title="{{ page.next.lang | capitalize }}: {{page.next.title}}" href="{{site.baseurl}}{{page.next.url}}">{{ next }} &raquo;</a>
+    <a class="next" title="{{ page.next.lang | capitalize }}: {{page.next.title}}" href="{{site.baseurl}}{{page.next.url}}">{{ next }} &#26;</a>
   {% endif %}
   </p>
-</div>

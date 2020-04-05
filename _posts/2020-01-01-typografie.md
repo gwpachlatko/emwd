@@ -32,9 +32,7 @@ tags: [Serifen, Lesbarkeit, Schriftarten, Satzspiegel ]
 
 <p>Außerdem werden (der verwendeten Sprache entsprechend korrekte) typografische Anführungszeichen, statt &#8222;Schreibmaschinen&#8211;Striche&#8220; angeboten. Also: &#8222;und&#8220; anstatt &#8220;und&#8221; oder gar "und". Dasselbe gilt für Auslassungszeichen (Apostrophe) und einfache Anführungszeichen.</p>
 
-<p>Eselsbrücke im Deutschen: 99 unten, 66 oben (weil die Zeichen &#8212; besonders in der Vergrößerung &#8212; wie stilisierte Zahlen aussehen). Eselsbrücke im Englischen: 66 oben, 99 oben.</p>
-
-<p>Bei serifenlosen Schriften sind diese Zeichen zwar nicht (immer) gerundet, dafür aber (dann) deutlich geneigt. Vergleiche dazu auch die Anführungszeichen in den Überschriften und Fließtexten dieses Blogs.</p>
+<p>Eselsbrücke im Deutschen: 99 unten, 66 oben (weil die Zeichen &#8212; besonders in der Vergrößerung &#8212; wie stilisierte Zahlen aussehen). Eselsbrücke im Englischen: 66 oben, 99 oben. Bei serifenlosen Schriften sind diese Zeichen zwar nicht (immer) gerundet, dafür aber (dann) deutlich geneigt.</p>
 
 <p>Wirklich gute Schriftenarten kennen den Unterschied zwischen 25'17&#34; und 25&#697;17&#698; (25 Minuten, 17 Sekunden oder 25 Fuß, 17 Zoll werden durch den Hochstrich bzw. Zweistrich, anstelle der &#8222;einfachen oder doppelten Schreibmaschinen&#8211;Anführungsstriche&#8220; dargestellt; wie die hier verwendete Schriftart zeigt) und &#8222;wissen&#8220;, dass ein normal geschnittenes g &#8222;zweistöckig&#8220;, ein kursives <em>g</em> aber &#8222;einstöckig&#8220; ist. Zu diesem Zweck muss der Webdesigner aber auch den kursiven Schriftsatz benutzen, sonst sieht kursive Schrift einfach nur &#8222;schief&#8220; aus.</p>
 

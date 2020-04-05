@@ -2,31 +2,28 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 /* customised style*/
-@import "minima";
+/*@import "minima";*//*
 .clip { position: absolute;clip: rect(1px 1px 1px 1px);clip: rect(1px, 1px, 1px, 1px);width: 1px;height: 1px;overflow: hidden;
-  white-space: nowrap; }
+  white-space: nowrap; }*/
+  /*
 body {font-family: "Alegreya", serif; font-size: 1.1em; }
 .site-header {position: fixed;z-index: 2;top: 0;left: 0;width: 100%;background:#fff;border-top:none;}
 .page-content {padding-top: 100px;}
-figure { margin: 1.618em auto; }
-blockquote {color: #111; border-left: 5px solid #eee; font-size: 1em; letter-spacing: 1px; }
+
 figcaption { font-size: .809em; }
 figcaption p.person:before { content:"\2014 " }
 img { width: 100%; height: auto; }
 .post-content ul li { padding-left: 25px; background: url(../images/bullet.png) left 7px no-repeat ; list-style-type: none;}
 .site-title { margin-top: -12px;padding-left: 30px; background: url(../images/logo.png) 0 16px no-repeat; }
 h2 a:link { color: #900; font-size: 1.2em; line-height: 1em; }
-h2 a:visited { color: #111; }
+
 h4 { font-weight: 700; font-size: 20px; }
-.post-meta {font-size: 19px; color: #666; }
+
 p a:link, .site-footer a:link { color: #900; border-bottom: 2px #900 solid; }
 p a:visited, .site-footer a:visited { color: #111; border-bottom: 2px #111 solid; }
 p a:hover, .site-footer a:hover { text-decoration: none; border-bottom: none; }
 .prevnext { margin: 3em auto; text-align: center; }
-.readmore a:link, .prevnext a:link { margin: 0; padding: .203em .405em; border: 1px #900 solid; border-radius: 3px;  color:#fff; background-color: #900; font-size: 20px; color: #fff; text-decoration: none; }
-.readmore a:visited, .prevnext a:visited { background-color: #111; color: #fff; border: 1px #111 solid; }
-.readmore a:hover, .prevnext a:hover { background-color: #111; border: 1px #111 solid; }
-.readmore { margin-bottom: 2em; padding-bottom: 1em; border-bottom: 1px #eee solid; }
+
 .site-footer { padding-bottom: 3em; }
 
 .navigation { position: absolute; top: 16px; right: 20px; color: #fff;}
@@ -40,19 +37,75 @@ p a:hover, .site-footer a:hover { text-decoration: none; border-bottom: none; }
 .material-icons { position: absolute; top: 12%; right: 12%;}
 .navbar li { list-style: none; margin-left: -2em; }
 /* gesonderte Anweisungen für Artikel über Typografie */
-p a.text{color:#000;border-bottom:none;font-style:italic;}
-p a.navy{color:#009;border-bottom:none;text-decoration:underline;}
-p a.black{color:#000;border-bottom:none;text-decoration:underline;}
-p a.blackbb{color:#000;border-bottom:1px #000 solid;text-decoration:none;}
-p a.blackbb2{color:#000;border-bottom:2px #000 solid;text-decoration:none;}
-p a.simbg{color:#eee;border-bottom:none;text-decoration:underline;}
-p a:focus.simbg,a:hover.simbg {color:#006;}
+.page-content p a.text{color:#000;border-bottom:none;font-style:italic;}
+.page-content p a.navy{color:#009;border-bottom:none;text-decoration:underline;}
+.page-content p a.black{color:#000;border-bottom:none;text-decoration:underline;}
+.page-content p a.blackbb{color:#000;border-bottom:1px #000 solid;text-decoration:none;}
+.page-content p a.blackbb2{color:#000;border-bottom:2px #000 solid;text-decoration:none;}
+.page-content p a.simbg{color:#eee;border-bottom:none;text-decoration:underline;}
+.page-content p a:focus.simbg,a:hover.simbg {color:#006;}
 /* Ende Anweisungen für Artikel über Typografie*/
-
+/*
 .footer-heading a:link { font-size: 1.1em; border-bottom: none; }
 .footer-heading a:hover { text-decoration: underline; }
 @media screen and (min-width: 63.236em) {
 body { font-size: 1.3em; }
 .footer-heading { font-size: 1.1em; }
-.wrapper { width: 30em; }
+
+}*/
+body { margin: 0;background: #fff;color: #000;font-family: serif;font-size: calc(1em + .5vw); }
+h1,h2,h3,h4 { font-weight: 400; font-family: "Abril Fatface", serif; line-height: calc(1em + .5vw); }
+h2 a:visited { color: #111; }
+img { max-width: 100%; height: auto; }
+figure { margin: 1.618em auto; text-align: center; }
+blockquote {width: 80%; margin: 0 auto; padding: 1em; color: #111; border: 1px solid #603; font-size: 1em; }
+figcaption p { font-size: .809em; color: #666;}
+figcaption p.person:before { content:"\2014 " }
+code { color: #031; font-weight: 700; font-size: calc(.809em + .025vw); }
+.wrapper { max-width: 30em; }
+.post-list { list-style: none; }
+.site-header { position: fixed; z-index: 2; bottom: 0; background: #603; width: 100%; height: 50px; }
+.site-title, .site-title:visited { position: absolute; padding: 0 25px; bottom: 0; right: 75px; font-size: 22px; line-height: 2.3em; color: #fff; text-decoration: none; height: 50px; }
+.site-title:hover {background: #301; }
+.post-meta { font-size: .809em; color: #666; margin-top: 0; }
+.toggle {position:absolute; margin: 0 auto; bottom: 0; right: 25px; width: 50px; height: 50px; text-align: center; cursor: pointer; font-size: 40px; }
+.toggle2 {position:absolute; margin: 0 auto; bottom: 0; right: 325px; width: 50px; height: 50px; text-align: center; cursor: pointer; font-size: 40px; }
+/*.toggle a:link, .toggle2 a:link { text-align: center; }*/
+.navigation, .contact-list { font-size: 24px; line-height: 2em; }
+.navigation li a:link, .navigation li a:visited, .contact-list li a:link, .contact-list li a:visited { color: #fff; text-decoration: none; }
+.navigation li, .contact-list li { list-style-type: none; background: #603; }
+.navigation li:hover, .contact-list li:hover { background: #301; }
+.navigation ul li ul { position: absolute; visibility: hidden; opacity: 0; transition: all 1s ease; bottom: 50px; right:0; display:none; width: 7.5em; text-align: right; }
+.contact-list ul li ul { position: absolute; visibility: hidden; opacity: 0; transition: all 1s ease; bottom: 50px; right:0; display:none; width: 50px; text-align: center; }
+.navigation ul li ul li { padding-left: 10px; font-size: 24px; }
+.contact-list ul li ul li { padding-top: 3px; font-size: 24px; line-height: 1; }
+.navigation ul li:hover > ul,
+.navigation ul li:focus-within > ul { visibility: visible; opacity: 1; display: block; transition:all 1s ease; padding-left: 10px; }
+.contact-list ul li:hover > ul,
+.contact-list ul li:focus-within > ul { visibility: visible; opacity: 1; display: block; transition:all 1s ease; padding-left: 10px; }
+.page-link { padding-right: 15px; }
+.container {margin: 0 auto; padding:0 auto; }
+main { margin: 0 auto; }
+.page-content { padding: 1.618em .809em 4.247em; max-width: 30em; line-height: 1.618em; }
+.page-content a:link { color: #603; text-decoration: none; border-bottom: 2px #603 solid; }
+.page-content a:hover { text-decoration: none; border-bottom: 2px #ccc solid; }
+.page-content h2 { margin-bottom: 0; }
+.page-content h2 .post-link { text-decoration: none; border-bottom: none; text-align: center; }
+.page-content h2 .post-link:hover { color: #111; }
+.page-content a[rel="external"] { color: #031; text-decoration: none; border-bottom: 2px #031 solid; }
+.page-content a[rel="external"]:after { margin-left: 5px; font-family: "iconmoon"; content: "\2197"; border: 2px #031 solid; text-decoration: none; }
+.page-content a[rel="external"]:hover { border-bottom: 2px #ccc solid; }
+.prevnext a:after { content: ""; padding-right: .405em; }
+.readmore a:link, .prevnext a:link { margin: 0; padding: .203em .405em .3em; border: 1px #603 solid; border-radius: 3px;  color:#fff; background-color: #603; font-size: 20px; color: #fff; text-decoration: none; }
+.readmore a:visited, .prevnext a:visited { background-color: #111; color: #fff; border: 1px #111 solid; }
+.readmore a:hover, .prevnext a:hover { background-color: #111; border: 1px #111 solid; }
+.readmore { margin-bottom: 2em; padding-bottom: 1em; border-bottom: 1px #eee solid; }
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  fill: #fff;
+  padding: 8px;
+  border-radius: 3px;
 }
+.icon:hover { fill: #666; }
