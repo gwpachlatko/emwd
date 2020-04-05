@@ -43,7 +43,7 @@ Abschließend sei noch gesagt, dass _1 Minute Webdesign_ aktiv weder Gebrauch vo
 
 Allerdings verwenden diese Seiten _Google Fonts_ mittels Referenzverweis im Seitenkopf. Dies können Sie im Quellcode dieser Seite überprüfen. In Zeile 19 finden Sie:
 
-<code>&lt;link href&#61;&#34;https&#58;&#47;&#47;fonts.googleapis.com&#47;css&#63;family&#61;Material+Icons&#37;7CAbril+Fatface&amp;display&#61;swap&#34; rel&#61;&#34;stylesheet&#34; &#47;&gt;</code>
+<code>&lt;link href&#61;&#34;https&#58;&#47;&#47;fonts.googleapis.com … &#47;&gt;</code>
 
 Benutzen Sie einen traditionellen Computer, tippen Sie <code><abbr>Strg</abbr>+u</code>. Der Quellcode wird in einem neuen Tab angezeigt.
 
