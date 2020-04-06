@@ -1,10 +1,10 @@
 <header class="site-header">
   {%- assign default_paths = site.pages | map: "path" -%}
   {%- assign page_paths = site.header_pages | default: default_paths -%}
-  <h1><a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
+  <h1><a aria-label="Startseite" class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
 
   {%- if page_paths -%}
-    <nav class="navigation">
+    <nav class="navigation" aria-label="Unterseiten">
       <ul>
       <li class="toggle"><a href="#" aria-expanded="true" aria-haspopup="true"><span class="material-icons">menu</span></a>
         <ul role="menu" class="dropdown">
@@ -20,9 +20,9 @@
         </ul>
       </nav>
 
-    <nav class="contact-list">
+    <nav class="contact-list" aria-label="Kontaktmöglichkeiten">
       <ul>
-      <li class="toggle2"><a title="Kontaktmöglichkeiten" href="#" aria-expanded="true" aria-haspopup="true"><span class="material-icons">list</span></a>
+      <li class="toggle2"><a href="#" aria-expanded="true" aria-haspopup="true"><span class="material-icons">list</span></a>
         <ul role="menu" class="dropdown">
         <li role="none"><a role="menuitem" title="Relevante Informationen für Ihren Feed Reader im XML–Format" href="{{ 'rss.xml' | relative_url }}"><svg class="icon icon-rss2"><use xlink:href="{{ site.baseurl }}/assets/images/symbol-defs.svg#icon-rss2"></use></svg></a></li>
         <li role="none"><a role="menuitem" title="Seitenübersicht dieser Website im XML–Format" href="{{ 'sitemap.xml' | relative_url }}"><svg class="icon icon-map"><use xlink:href="{{ site.baseurl }}/assets/images/symbol-defs.svg#icon-map"></use></svg></a></li>
