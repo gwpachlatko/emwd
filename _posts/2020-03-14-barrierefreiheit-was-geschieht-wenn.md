@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Warum Barrierefreiheit nicht „sexy“ ist oder Was geschieht eigentlich, wenn ..? 
+title: Warum Barrierefreiheit nicht „sexy“ ist oder Was geschieht eigentlich, wenn ..?
 date:   2020-03-14 09:32:35 +0100
 lang: de
-categories: werkzeuge
+categories: barrierefrei
 description: "Dieser Artikel geht der Frage nach, warum Barrierefreiheit wichtig ist und wie sie rasch umgesetzt werden könnte."
-tags: [Barrierefreiheit, Accessibility]
+tags: [Accessibility, Zugänglichkeit, Barrierefreiheit]
 ---
 Der größte, zeitaufwendigste, aber auch wichtigste Teil der Arbeit guter Designer besteht in der Suche nach Antworten auf eher unangenehme Fragen. Wie etwa: „Was, wenn etwas nicht nach Plan funktioniert?“
 

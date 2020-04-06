@@ -3,9 +3,9 @@ layout: post
 title:  Die wahren Barrieren sind im Kopf
 date:   2020-01-04 17:32:35 +0100
 lang: de
-categories: accessibility
+categories: barrierefrei
 description: "Das Internet kennt keine Einschränkungen die wir landläufig als Barrieren bezeichnen. Diese würden schließlich der Absicht, Informationen allgemein zugänglich zu machen, grundsätzlich widersprechen."
-tags: [Zugänglichkeit, Accessibility]
+tags: [Accessibility, Zugänglichkeit, Barrierefreiheit]
 ---
 
 <p>Ich vermute, Leser eines gewissenen Alters werden die Anspielung im Titel sofort erkannt haben. Jene, die sich schon eingehender mit Webdesign befasst haben, werden wahrscheinlich sogar zustimmen, dass auch der Rest von André Hellers berühmter Textzeile durchaus zutreffend ist: &#8222;&#8230; und sind sie nicht im Kopf, dann sind sie nirgendwo.&#8220;</p>
