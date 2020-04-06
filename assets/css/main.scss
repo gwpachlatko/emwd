@@ -58,7 +58,7 @@ h1,h2,h3,h4 { font-weight: 400; font-family: "Abril Fatface", serif; line-height
 h2 a:visited { color: #111; }
 img { max-width: 100%; height: auto; }
 figure { margin: 1.618em auto; text-align: center; }
-blockquote {width: 80%; margin: 0 auto; padding: 1em; color: #111; border: 1px solid #603; font-size: 1em; }
+blockquote {width: 80%; margin: 0 auto; padding: 1em; color: #111; border: 1px solid #603; font-size: 1em; text-align: left; }
 figcaption p { font-size: .809em; color: #666;}
 figcaption p.person:before { content:"\2014 " }
 code { color: #031; font-weight: 700; font-size: calc(.809em + .025vw); }
