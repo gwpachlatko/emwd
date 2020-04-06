@@ -4,7 +4,7 @@ title: Mehr als nur ein hübsches Gesicht
 date:   2020-04-06 09:32:35 +0100
 lang: de
 categories: barrierefrei
-description: "Dieser Artikel macht mit dem Vorteil, Barrierefreiheit und ansprechendes Design würden nicht zusammengehen, Schluss."
+description: "Dieser Artikel macht mit dem Vorurteil, Barrierefreiheit und ansprechendes Design würden nicht zusammengehen, Schluss."
 tags: [Accessibility, Zugänglichkeit, Barrierefreiheit]
 ---
 Was habe ich nicht schon alles an Argumenten gehört, warum Barrierefreiheit „sicherlich schon auch wichtig, aber leider nichts für uns“ ist. Ganz oben auf der Liste der „Hinderungsgründe“ stehen natürlich meist der vermeintliche Aufwand und die damit verbundenen Kosten. Bald danach kommen schon „Designfragen“.
