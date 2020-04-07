@@ -20,7 +20,14 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h2>
-                <p class="post-meta">{% include translated_date.html date=post.date format="%A, %-d. %B %Y" %}</p>
+                <p class="post-meta">{% include translated_date.html date=post.date format="%A, %-d. %B %Y" %}<br />
+                  {% assign tags = post.tags %}
+                  <span>Tags: </span>
+                  {% for tag in tags %}
+                  <a class="hometag" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
+                  {% unless forloop.last %}&nbsp;{% endunless %}
+                  {% endfor %}
+                </p>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
