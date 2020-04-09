@@ -2,6 +2,7 @@
 layout: page
 title: Tags
 permalink: /tags/
+lang: de
 ---
 
 {% comment %}
@@ -47,7 +48,7 @@ list all posts sharing a certain tag
 		 {% if post.tags contains tag %}
 		 <dd>
 		 <a href="{{site.baseurl}}{{ post.url }}">
-		 {{ post.title }}</a> <small>on {{ post.date | date_to_string }}</small>
+		 {{ post.title }}</a> <small>am {% include translated_date.html date=post.date format="%-d. %b %Y" %}</small>
 		</dd>
 		 {% endif %}
 	 {% endfor %}
