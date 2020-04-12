@@ -10,7 +10,7 @@ tags: [Accessibility, Zugänglichkeit, Barrierefreiheit]
 Was habe ich nicht schon alles an Argumenten gehört, warum Barrierefreiheit „sicherlich schon auch wichtig, aber leider nichts für uns“ ist. Ganz oben auf der Liste der „Hinderungsgründe“ stehen natürlich meist der vermeintliche Aufwand und die damit verbundenen Kosten. Bald danach kommen schon „Designfragen“.
 <!--more-->
 
-Bei Aufwand und Kosten bin ich gedanklich noch im Boot — aber ich muss mich schon an die Bordwand klammern, um nicht das Gleichgewicht zu verlieren. Ja, als „nachträglicher Gedanke“ kann Zugänglichkeit schon zum Kostenfaktor werden. Aber selbst dann sollte sich der Mehraufwand eigentlich in vernünftigen Grenzen bewegen. Merke: Die Barrieren, die man vorher nicht aufgebaut hat, muss man hinterher nicht einreißen.
+Bei Aufwand und Kosten bin ich gedanklich noch im Boot — aber ich muss mich an die Bordwand klammern, um nicht das Gleichgewicht zu verlieren. Ja, als „nachträglicher Gedanke“ kann Zugänglichkeit schon zum Kostenfaktor werden. Aber selbst dann sollte sich der Mehraufwand eigentlich in vernünftigen Grenzen bewegen. Merke: Die Barrieren, die man vorher nicht aufgebaut hat, muss man hinterher nicht einreißen.
 
 Der logische Zusammenhang zwischen Barrierefreiheit und der optischen Gefälligkeit eines Internetauftritts erschließt sich mir allerdings nicht. Wo genau steht geschrieben, dass optisch ansprechende Auftritte nicht barrierefrei sein können — oder auch umgekehrt, dass zugängliche Seiten „altbacken“, „irgendwie komisch“ oder einfach nur „hässlich“ sein müssen?   
 
