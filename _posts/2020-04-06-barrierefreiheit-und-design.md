@@ -34,7 +34,7 @@ Was mich an „Minima“ von Beginn an störte, war nicht so sehr die schlichte 
 
 Bereits bestehende „Themes“ auf der „Whitelist“ für „GitHub–Pages“ erfüllen (nach meiner bescheidenen Ansicht) tatsächlich den „Tatbestand der Altbackenheit“ beziehungsweise schmerzen meine Augen bis zur Unerträglichkeit.
 
-Bliebe also nur noch, ein eigenes Jekyll—Theme zu erstellen und als sogenannten „Ruby gem“ zu veröffentlichen. Das ist zwar auch nicht gerade Astrophysik, erfordert aber deutlich mehr Bemühung. Da müsste es doch auch einen Mittelweg geben, dachte ich mir — und ging gleich daran, es auszuprobieren.
+Bliebe also nur noch, ein eigenes Jekyll–Theme zu erstellen und als sogenannten „Ruby gem“ zu veröffentlichen. Das ist zwar auch nicht gerade Astrophysik, erfordert aber deutlich mehr Bemühung. Da müsste es doch auch einen Mittelweg geben, dachte ich mir — und ging gleich daran, es auszuprobieren.
 
 Das Ergebnis liegt dem geschätzten Leser nun vor. „Minima“ wurde komplett außer Dienst gestellt, aber die sogenannte Codebase von Jekyll ist weiterhin (und großteils unverändert) intakt.
 
