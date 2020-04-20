@@ -12,7 +12,7 @@ Was habe ich nicht schon alles an Argumenten gehört, warum Barrierefreiheit „
 
 Bei Aufwand und Kosten bin ich gedanklich noch im Boot — aber ich muss mich an die Bordwand klammern, um nicht das Gleichgewicht zu verlieren. Ja, als „nachträglicher Gedanke“ kann Zugänglichkeit schon zum Kostenfaktor werden. Aber selbst dann sollte sich der Mehraufwand eigentlich in vernünftigen Grenzen bewegen. Merke: Die Barrieren, die man vorher nicht aufgebaut hat, muss man hinterher nicht einreißen.
 
-Der logische Zusammenhang zwischen Barrierefreiheit und der optischen Gefälligkeit eines Internetauftritts erschließt sich mir allerdings nicht. Wo genau steht geschrieben, dass optisch ansprechende Auftritte nicht barrierefrei sein können — oder auch umgekehrt, dass zugängliche Seiten „altbacken“, „irgendwie komisch“ oder einfach nur „hässlich“ sein müssen?   
+Der logische Zusammenhang zwischen Barrierefreiheit und der optischen Gefälligkeit eines Internetauftritts erschließt sich mir allerdings nicht. Wo genau steht geschrieben, dass optisch ansprechende Auftritte nicht barrierefrei sein können — oder auch umgekehrt, dass zugängliche Seiten „altbacken“, „irgendwie komisch“ oder „einfach nur hässlich“ sein müssen?   
 
 ### Ein neues Gesicht für diesen Auftritt
 
@@ -38,7 +38,7 @@ Bliebe also nur noch, ein eigenes Jekyll–Theme zu erstellen und als sogenannte
 
 Das Ergebnis liegt dem geschätzten Leser nun vor. „Minima“ wurde komplett außer Dienst gestellt, aber die sogenannte Codebase von Jekyll ist weiterhin (und großteils unverändert) intakt.
 
-Was ich wirklich gemacht habe, ist die Importanweisung von „Minima“ (<code>@import "minima";</code>) aus dem „Stylesheet“ zu entfernen. Dadurch werden die Grundeinstellungen nicht mit geladen. Jekyll „glaubt“ nach wie vor (laut <code>config.yml</code>) „Minima“ zu verwenden, greift aber nicht auf die Werkseinstellungen zu.
+Was ich wirklich gemacht habe, ist die Importanweisung von „Minima“ (<code>@import "minima";</code>) aus dem „Stylesheet“ zu entfernen. Dadurch werden die Grundeinstellungen nicht mitgeladen. Jekyll „glaubt“ nach wie vor (laut <code>config.yml</code>) „Minima“ zu verwenden, greift aber nicht auf die Werkseinstellungen zu.
 
 Der Rest ergab sich durch meine eigenen Anweisungen im „Stylesheet“ und einige kleinere Anpassungen in verschiedenen „includes“ <abbr>bzw.</abbr> „layouts“. Das Ergebnis sind eine nur etwa 4,8 <abbr>KB</abbr> (statt ursprünglich etwa 11 <abbr>KB</abbr>) große <abbr>CSS</abbr>–Datei, eine deutlich verbesserte Zugänglichkeit und eine frischere, moderne Darstellung des Inhalts.
 
