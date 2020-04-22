@@ -60,6 +60,7 @@ main { margin: 0 auto; }
 .page-content a[rel="external"] { color: #031; text-decoration: none; border-bottom: 2px #031 solid; }
 .page-content a[rel="external"]:after { margin-left: 5px; font-family: "iconmoon"; content: "\2197"; border: 2px #031 solid; text-decoration: none; }
 .page-content a[rel="external"]:hover { border-bottom: 2px #ccc solid; }
+.page-content a[rel="external"]:visited { color: #666; }
 .prevnext a:after { content: ""; padding-right: .405em; }
 .readmore a:link, .prevnext a:link { margin: 0; padding: .203em .405em .3em; border: 1px #603 solid; border-radius: 3px;  color:#fff; background-color: #603; font-size: 20px; color: #fff; text-decoration: none; }
 .readmore a:visited, .prevnext a:visited { background-color: #111; color: #fff; border: 1px #111 solid; }
