@@ -60,7 +60,7 @@ Was ich mit diesem Experiment (und eigentlich dem ganzen Artikel) sagen wollte i
 
 Es ist möglich, auch komplexere Inhalte in relativ einfach verständlicher Sprache zu vermitteln. Nur gibt es (wie ich meine) für jeden Inhalt eine vernünftige Untergrenze. Diese mutwillig zu unterschreiten ist unsinnig. Die gute Absicht ist oftmals das Gegenteil der guten Tat.
 
-Abschließend möchte ich Ihnen noch eine Liste von sehr nützlichen Online–Werkzeugen an die Hand geben. Scheuen Sie sich nicht, diese (gewohnheitsmäßig) zu nutzen.
+Abschließend möchte ich Ihnen noch eine Liste sehr nützlicher Online–Werkzeuge an die Hand geben. Scheuen Sie sich nicht, diese (gewohnheitsmäßig) zu nutzen.
 
 <ul>
 <li><a rel="external" href="https://www.duden.de/">Duden Wörterbuch</a></li>
