@@ -4,7 +4,7 @@ title: Das eigene Hundefutter
 date:   2020-04-22 09:32:35 +0100
 lang: de
 categories: barrierefrei
-description: "Dieser Artikel macht mit dem Vorurteil, Barrierefreiheit und ansprechendes Design würden nicht zusammengehen, Schluss."
+description: "Menschliche Leser sind unterschiedlich. Eines ist jedoch gewiss: Ihre Inhalte werden von Ihrem ehrlichen Bemühen um bessere Verständlichkeit profitieren."
 tags: [Accessibility, Zugänglichkeit, Barrierefreiheit, Sprache]
 ---
 Keine Sorge: Und wenn wir alle „vor die Hunde gehen“, ich würde niemals dazu aufrufen uns an Bellos und Flockis Napf schadlos zu halten. Aber soweit sind wir (hoffentlich) ohnehin noch nicht. Deshalb wollen wir heute über Sprache und ihre Bedeutung für Barrierefreiheit reden. Das ist auch wichtig.
