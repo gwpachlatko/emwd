@@ -35,9 +35,9 @@ Ergebnis: <em>Lesezeit</em> zeigt Wortanzahl und Lesezeit in der Sprache der Web
 
 Sie wollen auf einzelnen Seiten <em>Lesezeit</em> in (einer) anderen Sprache(n) anzeigen, die <em>nicht die Website–Sprache ist (sind)</em>.
 
-Setzen Sie eine globale Sprache in <code>config.yml</code> fest. Auf dieser Website: <code>lang: de</code>
+Setzen Sie die globale Sprache in <code>config.yml</code> fest. Auf dieser Website: <code>lang: de</code>
 
-Setzen Sie eine Seitensprache im „Frontmatter“ der jeweiligen Seite. Auf dieser Seite:
+Setzen Sie die Seitensprache im „Frontmatter“ der jeweiligen Seite. Auf dieser Seite:
 
 <pre>
 ---
