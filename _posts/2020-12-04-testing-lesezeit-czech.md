@@ -3,7 +3,7 @@ layout: post
 title:  Testování „Jekyll Lesezeit“ v češtině
 date:   2020-12-04 09:32:35 +0100
 lang: cz
-categories: hledání chyb
+categories: fehlersuche
 description: "Tato stránka je určena pouze pro testování softwaru v češtině."
 tags: [Jekyll, Lesezeit, čeština]
 ---
