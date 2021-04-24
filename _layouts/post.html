@@ -8,6 +8,8 @@ layout: default
     <p class="post-meta">
       {% if page.lang == "de" %}
       {%- include translated_date.html date=page.date format="%A, %-d. %B %Y" -%}
+      {% else if page.lang == "cz" %}
+      {%- include translated_date.html date=page.date format="%A, %-d. %B %Y" -%}
       {% else %}
       {%- include translated_date.html date=page.date format="%A, %-d %B %Y" -%}{% endif %} — {%- include lesezeit.html -%}
     </p>

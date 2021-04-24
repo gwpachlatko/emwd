@@ -1,0 +1,43 @@
+# Strings for dates in German
+abbreviated_weekday:
+  - neděle
+  - pondělí
+  - úterý
+  - středa
+  - čtvrtek
+  - pátek
+  - sobota
+full_weekday:
+  - neděle
+  - pondělí
+  - úterý
+  - středa
+  - čtvrtek
+  - pátek
+  - sobota
+abbreviated_month:
+  - ledna
+  - února
+  - března
+  - dubna
+  - května
+  - června
+  - července
+  - srpna
+  - září
+  - října
+  - listopadu
+  - prosince
+full_month:
+  - ledna
+  - února
+  - března
+  - dubna
+  - května
+  - června
+  - července
+  - srpna
+  - září
+  - října
+  - listopadu
+  - prosince

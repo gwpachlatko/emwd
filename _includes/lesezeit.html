@@ -61,6 +61,17 @@
         {{ words | divided_by: 180 | prepend: "cerca de " | append: " minutos" }}
       {% endif %}
 
+  {% comment %}POČET SLOV A DOBA ČTENÍ{% endcomment %}
+  {% when 'cz' %}
+    {{ page.content | number_of_words | prepend: " " | append: " slova" }} —
+      {% if words <= 180 %}
+        méně než 1 minutu
+        {% elsif words > 180 and words < 360 %}
+        přibližně 1 minutu
+        {% elsif words >= 360 %}
+        {{ words | divided_by: 180 | prepend: "přibližně " | append: " minuty" }}
+      {% endif %}
+
   {% comment %}WORD COUNT AND READING TIME: PAGE DEFAULT{% endcomment %}
   {% else %}
   {{ page.content | number_of_words | prepend: " " | append: " words" }} —
@@ -131,6 +142,17 @@
         cerca de 1 minuto
         {% elsif words >= 360 %}
         {{ words | divided_by: 180 | prepend: "cerca de " | append: " minutos" }}
+      {% endif %}
+
+  {% comment %}POČET SLOV A DOBA ČTENÍ{% endcomment %}
+  {% when 'cz' %}
+    {{ page.content | number_of_words | prepend: " " | append: " slova" }} —
+      {% if words <= 180 %}
+        méně než 1 minutu
+        {% elsif words > 180 and words < 360 %}
+        přibližně 1 minutu
+        {% elsif words >= 360 %}
+        {{ words | divided_by: 180 | prepend: "přibližně " | append: " minuty" }}
       {% endif %}
 
   {% comment %}WORD COUNT AND READING TIME: GLOBAL DEFAULT{% endcomment %}
