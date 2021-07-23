@@ -58,9 +58,9 @@
 
   <p class="prevnext">
   {% if page.previous.url %}
-    <a class="prev" title="{{ page.previous.lang | capitalize }}: {{page.previous.title}}" href="{{site.baseurl}}{{page.previous.url}}">&#27; {{ prev }}</a>
+    <a class="prev" title="{{ page.previous.lang | capitalize }}: {{page.previous.title}}" href="{{site.baseurl}}{{page.previous.url}}">&#8592; {{ prev }}</a>
   {% endif %}
   {% if page.next.url %}
-    <a class="next" title="{{ page.next.lang | capitalize }}: {{page.next.title}}" href="{{site.baseurl}}{{page.next.url}}">{{ next }} &#26;</a>
+    <a class="next" title="{{ page.next.lang | capitalize }}: {{page.next.title}}" href="{{site.baseurl}}{{page.next.url}}">{{ next }} &#8594;</a>
   {% endif %}
   </p>

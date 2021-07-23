@@ -10,7 +10,7 @@
 .page-content p a.simbg{color:#eee;border-bottom:none;text-decoration:underline;}
 .page-content p a:focus.simbg,a:hover.simbg {color:#006;}
 /* Ende Anweisungen für Artikel über Typografie*/
-body { margin: 0;background: #fff;color: #000;font-family: serif;font-size: calc(1em + .5vw); }
+body { margin: 0;background: #fff;color: #000;font-family: "Alegreya", serif;font-size: calc(1em + .5vw); }
 h1,h2,h3,h4 { font-weight: 400; font-family: "Abril Fatface", serif; line-height: calc(1em + .5vw); }
 h2 a:visited, a:visited, .hometag:visited { color: #111; }
 
@@ -21,6 +21,7 @@ blockquote {width: 80%; margin: 0 auto; padding: 1em; color: #111; border: 1px s
 figcaption p { font-size: .809em; color: #666;}
 figcaption p.person:before { content:"\2014 " }
 code { color: #031; font-weight: 700; font-size: calc(.809em + .025vw); }
+em { font-style: italic; }
 dd:before { content: "\02C3"; }
 .wrapper { max-width: 30em; }
 .post-list { list-style: none; }
