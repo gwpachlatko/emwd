@@ -52,4 +52,4 @@ An einem mobilen Android Endgerät, erweitern Sie einfach den Eintrag im Adressf
 Sollten Sie ein sogenanntes iPhone verwenden, folgen Sie bitte dieser Anleitung: <a rel="external" title="Anleitung zum Einsehen des Quellcodes von Webseiten mit iPhone von Chip.de Praxistipps" href="https://praxistipps.chip.de/quelltext-einer-website-auf-dem-iphone-oder-ipad-anzeigen-geht-das_13803">Quellcode von Webseiten mit iPhone ansehen (Chip Praxistipp)</a>.
 
 
-Diese Seite wurde am 4. April 2020 aktualisiert.
+Diese Seite wurde am 24. Juli 2021 aktualisiert.
