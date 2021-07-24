@@ -31,7 +31,7 @@ header_pages:
   - DSGVO.md
 show_excerpts: true
 excerpt_separator: <!--more-->
-baseurl: # the subpath of your site, e.g. /blog
+baseurl: /emwd # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: gwpachlatko
