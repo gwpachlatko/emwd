@@ -29,3 +29,6 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "addressable", ">= 2.8.0"
+gem "nokogiri", ">= 1.11.4"
+gem "kramdown", ">= 2.3.1"
+gem "activesupport", ">= 6.0.3.1"
