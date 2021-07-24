@@ -33,7 +33,7 @@ Dadurch würden die von Ihnen abgesetzten Informationen zwar einigermaßen versc
 
 Ich bin jederzeit gesprächsbereit, wenn Sie das wollen. Schicken Sie mir einfach eine E–Mail mit Ihren Fragen. Sofern diese in einem zivilen Tonfall gestellt und halbwegs verständlich formuliert sind, werde ich selbstverständlich so schnell wie möglich darauf antworten. Anschließend werde ich Ihre Nachricht und Ihre E-Mail Adresse aus meinem System löschen.
 
-Bezüglich Ihres „Rechts auf Vergessenwerden“, waren Sie, so weit es mich betrifft, nie hier. Soll heißen: Da ich Ihre Daten nicht sammle, kann ich diese weder an Sie übermitteln, an Dritte weitergeben, noch löschen.
+Bezüglich Ihres Rechts „auf Vergessenwerden“, waren Sie, so weit es mich betrifft, nie hier. Soll heißen: Da ich Ihre Daten nicht sammle, kann ich diese weder an Sie übermitteln, an Dritte weitergeben, noch löschen.
 
 Sollten Sie allgemeine Fragen zum Serververhalten meines Gastgebers haben, folgen Sie bitte dem Verweis zum [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement).
 
@@ -41,9 +41,9 @@ Welche Software für dieses Angebot zum Einsatz kommt können Sie jederzeit in d
 
 Abschließend sei noch gesagt, dass _1 Minute Webdesign_ aktiv weder Gebrauch von _Google Analytics_ noch von Cookies oder sogenannten Third–Party Scripts macht. Das Session–Cookie, welches GitHub setzt, wird beim Schließen des Browserfensters gelöscht und hat keine Auswirkung auf die Funktionsweise der Seiten. Soweit es dieses Angebot betrifft, können Sie getrost auch alle Cookies blockieren oder automatisch löschen.
 
-Allerdings verwenden diese Seiten _Google Fonts_ mittels Referenzverweis im Seitenkopf. Dies können Sie im Quellcode dieser Seite überprüfen. In Zeile 19 finden Sie:
+Allerdings verwenden diese Seiten _Google Fonts_ mittels Referenzverweis im Seitenkopf. Dies können Sie im Quellcode dieser Seite überprüfen. In den Zeilen 21—23 finden Sie:
 
-<code>&lt;link href&#61;&#34;https&#58;&#47;&#47;fonts.googleapis.com … &#47;&gt;</code>
+<code>&lt;link rel="preconnect"  href&#61;&#34;https&#58;&#47;&#47;fonts.googleapis.com … &#47;&gt;</code>
 
 Benutzen Sie einen traditionellen Computer, tippen Sie <code><abbr>Strg</abbr>+u</code>. Der Quellcode wird in einem neuen Tab angezeigt.
 
