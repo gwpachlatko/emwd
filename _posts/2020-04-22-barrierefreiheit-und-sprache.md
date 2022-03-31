@@ -56,7 +56,7 @@ Der Unterschied? Der Absatz in (angeblich) „leichter Sprache“ ist stilistisc
 
 ### Keine Scheu vor leichter Sprache
 
-Was ich mit diesem Experiment (und eigentlich dem ganzen Artikel) sagen wollte ist: Haben Sie keine Angst vor „leichter Sprache“. Ganz im Gegenteil: Bemühen Sie sich, die zu vermittelnden Inhalte so leicht und „unterhaltsam“ wie möglich zu präsentieren. Und natürlich: Denken Sie über Ihre Texte und Ihr Publikum (vor und während des Schreibens) gründlich nach.
+Was ich mit diesem Experiment (und eigentlich dem ganzen Artikel) sagen wollte ist: Haben Sie keine Angst vor „leichter Sprache“. Ganz im Gegenteil: Bemühen Sie sich, die zu vermittelnden Inhalte so leicht und „unterhaltsam“ wie möglich zu präsentieren. Und natürlich: Denken Sie über Ihre Texte und Ihr Publikum (vorher und während des Schreibens) gründlich nach.
 
 Es ist möglich, auch komplexere Inhalte in relativ einfach verständlicher Sprache zu vermitteln. Nur gibt es (wie ich meine) für jeden Inhalt eine vernünftige Untergrenze. Diese mutwillig zu unterschreiten ist unsinnig. Die gute Absicht ist oftmals das Gegenteil der guten Tat.
 
