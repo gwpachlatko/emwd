@@ -29,7 +29,7 @@ Nein, es bringt gar nichts, sich darüber zu ärgern. Ein Ausgabegerät zu entwi
 Also, was bringt uns weiter, wenn das Favicon nur auf der Homepage dargestellt wird, nicht aber auf den Unterseiten der Website? (Ich darf davon ausgehen, dass wir alle wissen, dass wir hier von dynamisch erstellten Websites sprechen?)
 
 <ol>
-  <li>Nachsehen, ob das entsprechende Bild auch wirklich (also physikalisch) an angegebener Stelle liegt.</li>
+  <li>Nachsehen, ob das entsprechende Bild auch wirklich (also physisch) an angegebener Stelle liegt.</li>
   <li>Auf etwaige Tippfehler bei der Namensgebung des Bildes achten.</li>
   <li>Überprüfen, ob der angegebene Pfad zum Bild korrekt ist.</li>
   <li>Auf etwaige Tipp– oder Logikfehler bei der Pfadangabe achten.</li>
