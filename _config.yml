@@ -24,7 +24,7 @@ feed_update_period: weekly
 feed_update_frequency: 1
 lang: de
 author: Gerald W. Pachlatko
-email: gwpachlatko@gmail.com
+email: g@gwpachlatko.dev
 description: Eine Rezeptesammlung für sinnvolle Lösungen.
 header_pages:
   - erlaeuterungen.md
